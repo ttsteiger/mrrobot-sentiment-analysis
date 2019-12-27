@@ -1,4534 +1,3364 @@
 ﻿1
-00:00:01,100 --> 00:00:03,130
-- Anything we do,
+00:00:01,102 --> 00:00:03,137
+Anything we do,
 he will try to slow us down.
 
 2
-00:00:03,170 --> 00:00:05,770
+00:00:03,171 --> 00:00:05,773
 As long as he exists,
 he will stop us.
 
 3
-00:00:05,800 --> 00:00:08,300
-- Today is the day
+00:00:05,806 --> 00:00:08,309
+Today is the day
 I start working at Evil Corp.
 
 4
-00:00:08,340 --> 00:00:09,410
+00:00:08,342 --> 00:00:09,419
 I can help them
 rebuild the database
 
 5
-00:00:09,440 --> 00:00:11,770
+00:00:09,443 --> 00:00:11,779
 and defend the fort
 at the same time.
 
 6
-00:00:11,810 --> 00:00:14,340
+00:00:11,812 --> 00:00:14,348
 This patch ensures
 that the UPS devices
 
 7
-00:00:14,380 --> 00:00:16,450
+00:00:14,382 --> 00:00:16,450
 will only run trusted code.
 
 8
-00:00:16,480 --> 00:00:19,420
+00:00:16,484 --> 00:00:19,420
 Bottom line, they won't be
 able to blow up that building.
 
 9
-00:00:19,450 --> 00:00:22,320
-- U. N. vote to annex the Congo,
+00:00:19,453 --> 00:00:22,323
+U.N. vote to annex the Congo,
 it's as good as yours,
 
 10
-00:00:22,350 --> 00:00:24,650
+00:00:22,356 --> 00:00:24,658
 but this currency war must end.
 
 11
-00:00:24,690 --> 00:00:28,460
-- Stage 2, I want it to happen
-on the day of the U. N. vote.
+00:00:24,692 --> 00:00:28,462
+Stage 2, I want it to happen
+on the day of the U.N. vote.
 
 12
-00:00:28,490 --> 00:00:30,130
-- Protesters have
+00:00:28,496 --> 00:00:30,136
+Protesters have
 surrounded the building.
 
 13
-00:00:30,160 --> 00:00:33,060
-- Summon as much NYPD
+00:00:30,164 --> 00:00:33,067
+Summon as much NYPD
 as is necessary.
 
 14
-00:00:33,100 --> 00:00:34,600
-- You know that telling Elliot
+00:00:33,101 --> 00:00:34,611
+You know that telling Elliot
 anything about this
 
 15
-00:00:34,630 --> 00:00:36,470
+00:00:34,635 --> 00:00:36,470
 would violate the terms
 of your immunity?
 
 16
-00:00:36,500 --> 00:00:38,770
-- I think I have a lead,
+00:00:36,504 --> 00:00:38,772
+I think I have a lead,
 but I need to go at it alone.
 
 17
-00:00:38,800 --> 00:00:42,470
+00:00:38,806 --> 00:00:42,476
 I may have immunity,
 but I'm gonna lose my brother.
 
 18
-00:00:42,510 --> 00:00:45,070
+00:00:42,510 --> 00:00:45,079
 - Stage 2 was never called off.
 - How do we find them
 
 19
-00:00:45,110 --> 00:00:46,440
+00:00:45,113 --> 00:00:46,456
 and just end this
 once and for all?
 
 20
-00:00:46,480 --> 00:00:48,710
-- The best lead
-we've got is me.
+00:00:46,480 --> 00:00:48,716
+The best lead we've got is me.
 
 21
-00:00:48,740 --> 00:00:51,750
-- Irving, he says
+00:00:48,749 --> 00:00:51,752
+Irving, he says
 we'll be ready to go on Monday.
 
 22
-00:00:51,780 --> 00:00:54,180
+00:00:51,785 --> 00:00:54,188
 We've prepared for
 an emergency evacuation.
 
 23
-00:00:54,220 --> 00:00:55,550
+00:00:54,222 --> 00:00:55,556
 We have?
 
 24
-00:00:55,580 --> 00:00:57,220
-- I'll have Elliot's
+00:00:55,589 --> 00:00:57,225
+I'll have Elliot's
 access revoked.
 
 25
-00:00:57,250 --> 00:00:58,520
+00:00:57,258 --> 00:00:58,535
 I need you to fire
 Elliot Alderson.
 
 26
-00:00:58,550 --> 00:00:59,690
+00:00:58,559 --> 00:00:59,693
 Consider it done.
 
 27
-00:00:59,720 --> 00:01:01,760
+00:00:59,727 --> 00:01:01,762
 You okay?
 
 28
-00:01:01,790 --> 00:01:04,530
+00:01:01,795 --> 00:01:04,532
 - What's happening?
 - Angela, why is he here?
 
 29
-00:01:04,560 --> 00:01:06,400
+00:01:04,565 --> 00:01:06,400
 Everything's gonna be okay.
 
 30
-00:01:06,430 --> 00:01:08,330
+00:01:06,434 --> 00:01:08,336
 Elliot saw everything.
 I had to knock him out.
 
 31
-00:01:08,360 --> 00:01:09,700
+00:01:08,369 --> 00:01:09,703
 You're staying here
 this weekend.
 
 32
-00:01:09,730 --> 00:01:11,230
-We can't have
-anymore accidents.
+00:01:09,737 --> 00:01:11,239
+We can't have anymore accidents.
 
 33
-00:01:11,270 --> 00:01:12,700
+00:01:11,272 --> 00:01:12,706
 He's gonna wake up again.
 
 34
-00:01:12,740 --> 00:01:14,740
-- He only saw us
+00:01:12,740 --> 00:01:14,742
+He only saw us
 for a few seconds.
 
 35
-00:01:14,770 --> 00:01:16,410
+00:01:14,775 --> 00:01:16,410
 Maybe he won't remember.
 
 36
-00:01:18,770 --> 00:01:20,440
-<font color="#ff00ff">[elevator dings]</font>
-
-37
-00:01:20,480 --> 00:01:23,510
-<font color="#ff00ff">[woman speaking on TV]</font>
-
-38
-00:01:31,850 --> 00:01:35,360
-<font color="#ff00ff">[static transmutes,
-accordion music playing]</font>
-
-39
-00:01:35,390 --> 00:01:38,360
-<font color="#ff00ff">[coughs, clears throat]</font>
-
-40
-00:01:38,390 --> 00:01:39,830
-♪
-
-41
-00:01:39,860 --> 00:01:42,200
-<font color="#ff00ff">[yawns]</font>
-
-42
-00:01:42,230 --> 00:01:44,800
-<font color="#ff00ff">[clicking on phone]</font>
-
-43
-00:01:44,830 --> 00:01:47,840
-♪
-
-44
-00:01:47,870 --> 00:01:50,440
+00:01:47,875 --> 00:01:50,444
 Aller Anfang ist schwer.
 
-45
-00:01:50,470 --> 00:01:53,810
-♪
-
-46
-00:01:53,840 --> 00:01:57,280
+37
+00:01:53,847 --> 00:01:57,285
 Anfang ist anfang.
 
-47
-00:01:57,310 --> 00:01:59,680
-<font color="#ff00ff">[speaking German]</font>
+38
+00:01:59,720 --> 00:02:01,889
+One, two, three four
 
-48
-00:01:59,720 --> 00:02:01,880
-<font color="#138ce9">Chorus:</font> ♪ One, two, three four
+39
+00:02:01,922 --> 00:02:03,624
+One, two, three,
+four, five, six
 
-49
-00:02:01,920 --> 00:02:03,620
-♪ One, two, three,
-four, five, six ♪
+40
+00:02:05,559 --> 00:02:07,761
+One, two, three, four
 
-50
-00:02:03,650 --> 00:02:05,520
-<font color="#ff00ff">[elevator dings]</font>
+41
+00:02:07,795 --> 00:02:10,231
+Five, six, seven, eight
 
-51
-00:02:05,550 --> 00:02:07,760
-♪ One, two, three, four
-
-52
-00:02:07,790 --> 00:02:10,230
-♪ Five, six, seven, eight
-
-53
-00:02:10,260 --> 00:02:13,230
-<font color="#ff00ff">[woman speaking on TV]</font>
-
-54
-00:02:13,260 --> 00:02:14,760
-♪
-
-55
-00:02:14,800 --> 00:02:16,730
-- To relay to
+42
+00:02:14,802 --> 00:02:16,737
+To relay to
 the Syrian President.
 
-56
-00:02:16,770 --> 00:02:19,370
+43
+00:02:16,770 --> 00:02:19,373
 But Putin's stance
 is that it would be a mistake
 
-57
-00:02:19,400 --> 00:02:21,940
+44
+00:02:19,407 --> 00:02:21,942
 to abandon
 the current government.
 
-58
-00:02:21,970 --> 00:02:24,740
-Meanwhile, the U. N. Security
+45
+00:02:21,975 --> 00:02:24,745
+Meanwhile, the U.N. Security
 Council has gathered today
 
-59
-00:02:24,770 --> 00:02:26,710
+46
+00:02:24,778 --> 00:02:26,714
 for a much talked about vote,
 
-60
-00:02:26,740 --> 00:02:30,350
+47
+00:02:26,747 --> 00:02:30,351
 the People's Republic of
 China's proposed annexation
 
-61
-00:02:30,380 --> 00:02:33,350
+48
+00:02:30,384 --> 00:02:33,354
 of the Democratic
 Republic of the Congo.
 
-62
-00:02:33,380 --> 00:02:35,350
+49
+00:02:33,387 --> 00:02:35,356
 As the world awaits
 the result of the vote,
 
-63
-00:02:35,380 --> 00:02:37,420
-many questions
-are being raised:{\c}
+50
+00:02:35,389 --> 00:02:37,425
+many questions are being raised:
 
-64
-00:02:37,450 --> 00:02:39,390
+51
+00:02:37,458 --> 00:02:39,393
 What does it mean...
-<font color="#ff00ff">[phone buzzing]</font>
 
-65
-00:02:39,420 --> 00:02:40,720
+52
+00:02:39,427 --> 00:02:40,737
 For the relationships
 between world superpowers
 
-66
-00:02:40,760 --> 00:02:42,730
+53
+00:02:40,761 --> 00:02:42,730
 and impoverished nations?
 
-67
-00:02:42,760 --> 00:02:45,730
-<font color="#ff00ff">[phone buzzing]</font>
+54
+00:02:47,701 --> 00:02:49,637
+One, two, three, four
 
-68
-00:02:45,760 --> 00:02:47,660
-♪
+55
+00:02:49,670 --> 00:02:51,739
+Five, six, seven, eight
 
-69
-00:02:47,700 --> 00:02:49,630
-<font color="#138ce9">Chorus:</font> ♪ One, two, three, four
+56
+00:02:51,772 --> 00:02:54,508
+Elliot?
 
-70
-00:02:49,670 --> 00:02:51,730
-♪ Five, six, seven, eight
-
-71
-00:02:51,770 --> 00:02:54,500
-<font color="#ff00ff">[phone buzzes]</font>
-- Elliot?
-
-72
-00:02:54,540 --> 00:02:56,540
-♪
-
-73
-00:02:56,570 --> 00:02:59,580
-<font color="#ff00ff">[phone buzzes]</font>
-
-74
-00:02:59,610 --> 00:03:00,780
+57
+00:02:59,613 --> 00:03:00,781
 Isn't that your phone?
 
-75
-00:03:00,810 --> 00:03:03,210
-<font color="#ff00ff">[electrical crackling]</font>
+58
+00:03:03,251 --> 00:03:05,453
+Is it?
 
-76
-00:03:03,250 --> 00:03:05,450
-- Is it?
-<font color="#ff00ff">[buzzing continues]</font>
-
-77
-00:03:05,480 --> 00:03:08,450
+59
+00:03:05,486 --> 00:03:08,456
 Are you okay?
 
-78
-00:03:08,480 --> 00:03:09,990
+60
+00:03:08,489 --> 00:03:09,990
 Yeah, I'm fine.
 
-79
-00:03:10,020 --> 00:03:12,890
-<font color="#ff00ff">[buzzing continues]</font>
-
-80
-00:03:12,920 --> 00:03:14,960
+61
+00:03:12,926 --> 00:03:14,962
 Hello?
 
-81
-00:03:14,990 --> 00:03:16,260
-- Finally, I've been trying
+62
+00:03:14,995 --> 00:03:16,273
+Finally, I've been trying
 to reach you all weekend.
 
-82
-00:03:16,290 --> 00:03:18,330
+63
+00:03:16,297 --> 00:03:18,332
 Are you at work?
 
-83
-00:03:18,360 --> 00:03:20,660
+64
+00:03:18,366 --> 00:03:20,668
 - Yeah.
 - Don't go anywhere.
 
-84
-00:03:20,700 --> 00:03:22,930
+65
+00:03:20,701 --> 00:03:22,936
 We need to talk, in person.
 
-85
-00:03:22,970 --> 00:03:25,370
+66
+00:03:22,970 --> 00:03:25,373
 Meet me downstairs.
 I'll be there in ten.
 
-86
-00:03:25,400 --> 00:03:28,870
+67
+00:03:25,406 --> 00:03:28,876
 Okay? It's... it's important.
 
-87
-00:03:28,900 --> 00:03:31,210
+68
+00:03:28,909 --> 00:03:31,211
 Is everything okay?
 
-88
-00:03:33,740 --> 00:03:36,450
-<font color="#ff00ff">[elevator dings]</font>
-- Everything's fine.
+69
+00:03:33,747 --> 00:03:36,450
+Everything's fine.
 
-89
-00:03:36,480 --> 00:03:37,750
-<font color="#ff00ff">[elevator door opens]</font>
-
-90
-00:03:37,780 --> 00:03:40,850
-<font color="#ff00ff">[electrical crackling]</font>
-
-91
-00:03:40,880 --> 00:03:43,290
+70
+00:03:40,888 --> 00:03:43,291
 Hey...
 
-92
-00:03:43,320 --> 00:03:45,250
+71
+00:03:43,324 --> 00:03:45,259
 we should grab lunch later.
 
-93
-00:03:45,290 --> 00:03:49,260
-<font color="#ff00ff">[slow chime music]</font>
-
-94
-00:03:49,290 --> 00:03:52,930
-♪
-
-95
-00:03:52,960 --> 00:03:55,930
-<font color="#ff00ff">[indistinct chatter]</font>
-
-96
-00:03:55,960 --> 00:04:01,040
-♪
-
-97
-00:04:01,070 --> 00:04:03,340
-<font color="#ff00ff">[electrical crackling]</font>
-
-98
-00:04:03,370 --> 00:04:05,570
+72
+00:04:03,377 --> 00:04:05,579
 Something isn't right.
 
-99
-00:04:05,610 --> 00:04:07,710
+73
+00:04:05,613 --> 00:04:07,715
 Like something
 slipped away from me.
 
-100
-00:04:07,740 --> 00:04:09,350
+74
+00:04:07,748 --> 00:04:09,350
 What is it?
 
-101
-00:04:09,380 --> 00:04:12,420
+75
+00:04:09,383 --> 00:04:12,420
 I can't put my finger on it.
 
-102
-00:04:12,450 --> 00:04:14,980
+76
+00:04:12,453 --> 00:04:14,988
 What am I even doing here?
 
-103
-00:04:15,020 --> 00:04:19,360
+77
+00:04:15,022 --> 00:04:19,360
 I'm arriving at work.
 I'm walking toward my cubicle.
 
-104
-00:04:19,390 --> 00:04:21,560
+78
+00:04:19,393 --> 00:04:21,562
 I'm just on autopilot,
 
-105
-00:04:21,590 --> 00:04:24,390
+79
+00:04:21,595 --> 00:04:24,398
 running my routine.
 
-106
-00:04:24,430 --> 00:04:27,800
+80
+00:04:24,432 --> 00:04:27,801
 Did my daily program crash?
 
-107
-00:04:27,830 --> 00:04:29,730
+81
+00:04:27,835 --> 00:04:29,737
 When code runs,
 it should run straight through
 
-108
-00:04:29,770 --> 00:04:31,600
+82
+00:04:29,770 --> 00:04:31,605
 without interruption,
 
-109
-00:04:31,630 --> 00:04:35,840
+83
+00:04:31,639 --> 00:04:35,843
 until all of its tasks
 have been completed.
 
-110
-00:04:35,870 --> 00:04:37,910
+84
+00:04:35,876 --> 00:04:37,911
 Unless something goes wrong.
 
-111
-00:04:37,940 --> 00:04:40,580
+85
+00:04:37,945 --> 00:04:40,581
 A runtime error.
 
-112
-00:04:40,610 --> 00:04:44,710
+86
+00:04:40,614 --> 00:04:44,718
 Sometimes, corrupted memory
 can lead to one.
 
-113
-00:04:44,750 --> 00:04:46,920
+87
+00:04:44,752 --> 00:04:46,920
 Is that what's happening
 to me right now?
 
-114
-00:04:46,950 --> 00:04:49,020
+88
+00:04:46,954 --> 00:04:49,022
 A runtime error?
 
-115
-00:04:49,050 --> 00:04:51,490
-♪
-
-116
-00:04:51,520 --> 00:04:53,420
+89
+00:04:51,525 --> 00:04:53,427
 Yo, what up, E?
 
-117
-00:04:53,460 --> 00:04:55,660
+90
+00:04:53,461 --> 00:04:55,663
 I barely made it past
 those protesters this morning.
 
-118
-00:04:55,690 --> 00:04:57,690
+91
+00:04:55,696 --> 00:04:57,698
 I mean, the natives
 are getting restless.
 
-119
-00:04:57,730 --> 00:05:00,330
+92
+00:04:57,731 --> 00:05:00,334
 This shit's crazy AF, right?
 
-120
-00:05:00,360 --> 00:05:01,830
+93
+00:05:00,368 --> 00:05:01,835
 Is it?
 
-121
-00:05:01,860 --> 00:05:03,730
-- Hey, uh, so I had
+94
+00:05:01,869 --> 00:05:03,737
+Hey, so I had
 a piece of tang this weekend
 
-122
-00:05:03,770 --> 00:05:05,600
-you are not
-gonna believe, dude.
+95
+00:05:03,771 --> 00:05:05,606
+you are not gonna believe, dude.
 
-123
-00:05:05,630 --> 00:05:07,770
+96
+00:05:05,639 --> 00:05:07,775
 I was unlocking achievements
 Saturday night
 
-124
-00:05:07,800 --> 00:05:10,070
+97
+00:05:07,808 --> 00:05:10,077
 that went all the way through
 to Sunday morning.
 
-125
-00:05:10,110 --> 00:05:13,340
+98
+00:05:10,110 --> 00:05:13,347
 I even impressed myself.
 
-126
-00:05:13,380 --> 00:05:15,010
-- Every morning
-starts like this,
+99
+00:05:13,381 --> 00:05:15,015
+Every morning starts like this,
 
-127
-00:05:15,040 --> 00:05:16,950
+100
+00:05:15,048 --> 00:05:16,950
 graphic sex talk.
 
-128
-00:05:16,980 --> 00:05:19,780
+101
+00:05:16,984 --> 00:05:19,787
 Thankfully, I'm able
 to tune most of it out.
 
-129
-00:05:19,820 --> 00:05:23,890
+102
+00:05:19,820 --> 00:05:23,891
 When people talk like this,
 they're either insecure,
 
-130
-00:05:23,920 --> 00:05:27,460
+103
+00:05:23,924 --> 00:05:27,461
 or they're full of shame.
 
-131
-00:05:27,490 --> 00:05:29,490
+104
+00:05:27,495 --> 00:05:29,497
 Which one do you think it is?
 
-132
-00:05:29,530 --> 00:05:31,730
-♪
+105
+00:05:31,765 --> 00:05:34,034
+I...
 
-133
-00:05:31,760 --> 00:05:34,030
-I, uh...
-
-134
-00:05:34,060 --> 00:05:35,830
+106
+00:05:34,067 --> 00:05:35,836
 Sorry.
 
-135
-00:05:35,860 --> 00:05:37,600
-♪
+107
+00:05:37,638 --> 00:05:40,508
+Shit. That was meant for you.
 
-136
-00:05:37,630 --> 00:05:40,500
-- Shit.
-That was meant for you.
-
-137
-00:05:40,540 --> 00:05:42,610
+108
+00:05:40,541 --> 00:05:42,610
 I'm really off today.
 
-138
-00:05:44,540 --> 00:05:47,010
-Uh... <font color="#ff00ff">[sighs]</font>... I mean...
+109
+00:05:44,545 --> 00:05:47,014
+I mean...
 
-139
-00:05:47,040 --> 00:05:49,550
+110
+00:05:47,047 --> 00:05:49,550
 Jesus, Elliot, I, um...
 
-140
-00:05:49,580 --> 00:05:52,650
-You know what, man?
-Fuck you.
+111
+00:05:49,583 --> 00:05:52,653
+You know what, man? Fuck you.
 
-141
-00:05:52,680 --> 00:05:54,680
+112
+00:05:52,686 --> 00:05:54,688
 I'm just trying to
 brighten up your day
 
-142
-00:05:54,720 --> 00:05:56,650
-with my dope-ass anecdotes,
+113
+00:05:54,722 --> 00:05:56,666
+with my dopeass anecdotes,
 but if you don't appreciate it,
 
-143
-00:05:56,690 --> 00:05:58,690
+114
+00:05:56,690 --> 00:05:58,692
 I can just sit here in silence.
 
-144
-00:05:58,720 --> 00:06:00,860
-<font color="#ff00ff">[chuckles]</font> Really?
+115
+00:05:58,726 --> 00:06:00,861
+Really?
 
-145
-00:06:00,890 --> 00:06:03,690
+116
+00:06:00,894 --> 00:06:03,697
 Is this gonna end up being
 a beautiful accident?
 
-146
-00:06:03,730 --> 00:06:05,730
-Mm, no... no, I'm...
+117
+00:06:03,731 --> 00:06:05,733
+No... no, I'm...
 
-147
-00:06:05,760 --> 00:06:08,460
+118
+00:06:05,766 --> 00:06:08,469
 I'm sorry, bro.
 I shouldn't have said that.
 
-148
-00:06:08,500 --> 00:06:10,000
+119
+00:06:08,502 --> 00:06:10,003
 Spoke too soon.
 
-149
-00:06:10,030 --> 00:06:12,130
-- I'm bigger than this, man,
+120
+00:06:10,037 --> 00:06:12,139
+I'm bigger than this, man,
 and, in a way,
 
-150
-00:06:12,170 --> 00:06:13,970
+121
+00:06:12,172 --> 00:06:13,974
 what you just said
 actually helps me,
 
-151
-00:06:14,000 --> 00:06:15,900
+122
+00:06:14,007 --> 00:06:15,909
 'cause I've always wondered
 
-152
-00:06:15,940 --> 00:06:18,110
+123
+00:06:15,943 --> 00:06:18,121
 if people here thought I was
 just trying to get attention,
 
-153
-00:06:18,140 --> 00:06:19,840
+124
+00:06:18,145 --> 00:06:19,847
 but I was like, "Nah."
 
-154
-00:06:19,880 --> 00:06:21,480
+125
+00:06:19,880 --> 00:06:21,482
 But I should've
 started the day off
 
-155
-00:06:21,510 --> 00:06:23,480
+126
+00:06:21,515 --> 00:06:23,484
 by asking what you did
 this weekend.
 
-156
-00:06:23,510 --> 00:06:25,510
-- He does raise
-a good question.
+127
+00:06:23,517 --> 00:06:25,519
+He does raise a good question.
 
-157
-00:06:25,550 --> 00:06:27,480
+128
+00:06:25,553 --> 00:06:27,488
 What did I do this weekend?
 
-158
-00:06:27,520 --> 00:06:30,620
-- Instead I'm always just
+129
+00:06:27,521 --> 00:06:30,624
+Instead I'm always just
 rambling around some bullshit.
 
-159
-00:06:30,650 --> 00:06:33,460
+130
+00:06:30,658 --> 00:06:33,461
 But you know what, I'm gonna
 drop some truth on you, dude.
 
-160
-00:06:33,490 --> 00:06:36,160
-Since we're opening up here,
-I, uh...
+131
+00:06:33,494 --> 00:06:36,163
+Since we're opening up here, I...
 
-161
-00:06:36,190 --> 00:06:39,460
+132
+00:06:36,196 --> 00:06:39,467
 I've only ever
 gotten laid twice.
 
-162
-00:06:39,500 --> 00:06:41,130
+133
+00:06:39,500 --> 00:06:41,134
 Okay, actually,
-it was 11/2 times,
+it was 1 1/2 times,
 
-163
-00:06:41,160 --> 00:06:43,030
+134
+00:06:41,168 --> 00:06:43,036
 but the first time, it was...
 
-164
-00:06:43,070 --> 00:06:45,100
-it was one of those high-end
+135
+00:06:43,070 --> 00:06:45,114
+It was one of those highend
 escorts, dude, a courtesan.
 
-165
-00:06:45,130 --> 00:06:47,770
+136
+00:06:45,138 --> 00:06:47,775
 I saw her at the Plaza Hotel...
-and actually, she saw me, dude.
+And actually, she saw me, dude.
 
-166
-00:06:47,800 --> 00:06:49,610
+137
+00:06:47,808 --> 00:06:49,610
 She totally was hitting on me.
 
-167
-00:06:49,640 --> 00:06:51,610
+138
+00:06:49,643 --> 00:06:51,612
 It cost me, like,
 two weeks' pay.
 
-168
-00:06:51,640 --> 00:06:53,880
-- Oh, I know
-what I did this weekend.
+139
+00:06:51,645 --> 00:06:53,881
+I know what I did this weekend.
 
-169
-00:06:53,910 --> 00:06:55,840
+140
+00:06:53,914 --> 00:06:55,849
 I rehearsed my proposal.
 
-170
-00:06:55,880 --> 00:06:57,750
+141
+00:06:55,883 --> 00:06:57,751
 I have a big meeting with
 the VP of Technology.
 
-171
-00:06:57,780 --> 00:06:59,450
-- I've actually never had
+142
+00:06:57,785 --> 00:06:59,463
+I've actually never had
 penetration, dude.
 
-172
-00:06:59,480 --> 00:07:01,220
+143
+00:06:59,487 --> 00:07:01,221
 I've never penetrated.
-I just... I... <font color="#ff00ff">[sighs]</font>
+I just... I...
 
-173
-00:07:01,250 --> 00:07:03,050
+144
+00:07:01,254 --> 00:07:03,056
 I went to one of
 those rub and tugs...
 
-174
-00:07:03,090 --> 00:07:05,820
-- No, wait,
+145
+00:07:03,090 --> 00:07:05,826
+No, wait,
 I already had that meeting.
 
-175
-00:07:05,850 --> 00:07:07,520
+146
+00:07:05,859 --> 00:07:07,528
 That was last week.
 
-176
-00:07:07,560 --> 00:07:09,160
-What happened
-this past weekend?
+147
+00:07:07,561 --> 00:07:09,162
+What happened this past weekend?
 
-177
-00:07:09,190 --> 00:07:10,830
-- I just kept thinking
+148
+00:07:09,196 --> 00:07:10,840
+I just kept thinking
 she was one of those girls
 
-178
-00:07:10,860 --> 00:07:12,560
+149
+00:07:10,864 --> 00:07:12,566
 that got kidnapped
 and was forced to do it.
 
-179
-00:07:12,600 --> 00:07:14,130
+150
+00:07:12,600 --> 00:07:14,480
 I was, like, thinking of
 her family the whole...
 
-180
-00:07:14,160 --> 00:07:15,960
-<font color="#ff00ff">[phone ringing, buzzing]</font>
-
-181
-00:07:16,000 --> 00:07:18,000
+151
+00:07:16,003 --> 00:07:18,005
 Hey, dude, thanks for
 letting me confide in you.
 
-182
-00:07:18,030 --> 00:07:21,000
-Uh, just don't tell any of
+152
+00:07:18,038 --> 00:07:21,008
+Just don't tell any of
 the guys about this. Cool?
 
-183
-00:07:21,040 --> 00:07:22,870
-- It's hard
-what he just did...
+153
+00:07:21,041 --> 00:07:22,876
+It's hard what he just did...
 
-184
-00:07:22,910 --> 00:07:24,770
-- <font color="#ff00ff">[chuckles]</font> Yeah...
-- Opening up face-to-face,
+154
+00:07:22,910 --> 00:07:24,778
+- Yeah...
+- Opening up facetoface,
 
-185
-00:07:24,810 --> 00:07:27,910
+155
+00:07:24,812 --> 00:07:27,915
 which is why
 I probably talk to you.
 
-186
-00:07:27,940 --> 00:07:30,910
-<font color="#ff00ff">[keyboard clacking]</font>
-
-187
-00:07:30,950 --> 00:07:37,990
-♪
-
-188
-00:07:42,960 --> 00:07:45,060
+156
+00:07:42,963 --> 00:07:45,065
 Why is my account locked out?
 
-189
-00:07:45,090 --> 00:07:52,170
-♪
-
-190
-00:07:52,200 --> 00:07:54,000
-<font color="#ff00ff">[keyboard clacking]</font>
-
-191
-00:07:54,040 --> 00:07:55,700
-<font color="#ff00ff">[line ringing]</font>
-
-192
-00:07:55,740 --> 00:07:57,170
+157
+00:07:55,743 --> 00:07:57,177
 E Corp Help Desk.
 
-193
-00:07:57,210 --> 00:07:58,710
-- Hey, I got locked
+158
+00:07:57,210 --> 00:07:58,712
+Hey, I got locked
 out of my account.
 
-194
-00:07:58,740 --> 00:08:00,280
+159
+00:07:58,746 --> 00:08:00,280
 Can you do
 a password reset for me?
 
-195
-00:08:00,310 --> 00:08:01,910
-- Can I have
-your employee number?
+160
+00:08:00,313 --> 00:08:01,915
+Can I have your employee number?
 
-196
-00:08:01,940 --> 00:08:03,710
+161
+00:08:01,949 --> 00:08:03,717
 072391.
 
-197
-00:08:03,750 --> 00:08:05,210
+162
+00:08:03,751 --> 00:08:05,218
 Please hold.
 
-198
-00:08:05,250 --> 00:08:09,020
-<font color="#ff00ff">[cheery music
-plays over phone]</font>
-
-199
-00:08:09,050 --> 00:08:11,150
-<font color="#ff00ff">[phone buzzing]</font>
-
-200
-00:08:11,190 --> 00:08:13,960
-- My work email is
+163
+00:08:11,191 --> 00:08:13,961
+My work email is
 prompting me for a password.
 
-201
-00:08:13,990 --> 00:08:15,660
+164
+00:08:13,994 --> 00:08:15,663
 Did someone try
 to get on the domain
 
-202
-00:08:15,690 --> 00:08:17,030
+165
+00:08:15,696 --> 00:08:17,030
 as me too many times?
 
-203
-00:08:17,060 --> 00:08:18,860
+166
+00:08:17,064 --> 00:08:18,866
 Or has E Corp locked me out?
 
-204
-00:08:18,890 --> 00:08:20,760
+167
+00:08:18,899 --> 00:08:20,768
 Did they discover
 my shipping hack?
 
-205
-00:08:20,800 --> 00:08:22,630
+168
+00:08:20,801 --> 00:08:22,636
 I need to check
 my monitoring server.
 
-206
-00:08:22,670 --> 00:08:23,670
+169
+00:08:22,670 --> 00:08:23,671
 Hey, Samar...
 
-207
-00:08:23,700 --> 00:08:25,970
+170
+00:08:23,704 --> 00:08:25,973
 Samar, I got locked out.
 
-208
-00:08:26,000 --> 00:08:28,070
+171
+00:08:26,006 --> 00:08:28,084
 Can I hop on your machine
 to check something real quick?
 
-209
-00:08:28,100 --> 00:08:30,270
-- Yeah, yeah, yeah, sure,
+172
+00:08:28,108 --> 00:08:30,277
+Yeah, yeah, yeah, sure,
 go for it.
 
-210
-00:08:30,310 --> 00:08:32,940
+173
+00:08:30,310 --> 00:08:32,946
 Yeah...
 
-211
-00:08:32,980 --> 00:08:35,910
-- Is this that bad feeling
+174
+00:08:32,980 --> 00:08:35,916
+Is this that bad feeling
 I have looming over me?
 
-212
-00:08:35,940 --> 00:08:38,310
+175
+00:08:35,949 --> 00:08:38,318
 Is this why today
 doesn't feel right?
 
-213
-00:08:38,350 --> 00:08:41,080
-<font color="#ff00ff">[keyboard clacking]</font>
-
-214
-00:08:41,120 --> 00:08:42,850
+176
+00:08:41,121 --> 00:08:42,856
 An update failure.
 
-215
-00:08:42,890 --> 00:08:44,990
+177
+00:08:42,890 --> 00:08:44,992
 No, this can't be happening.
 
-216
-00:08:45,020 --> 00:08:46,790
-<font color="#ff00ff">[music intensifies]</font>
-
-217
-00:08:46,820 --> 00:08:48,860
+178
+00:08:46,827 --> 00:08:48,862
 Maybe something's wrong
 with my dashboard.
 
-218
-00:08:48,890 --> 00:08:50,960
+179
+00:08:48,896 --> 00:08:50,964
 I need to check the full log.
-<font color="#ff00ff">[keyboard clacking]</font>
 
-219
-00:08:50,990 --> 00:08:53,960
-<font color="#ff00ff">[tense music]</font>
+180
+00:08:59,740 --> 00:09:02,142
+Shit. This morning at 6:07 a.m.,
 
-220
-00:08:54,000 --> 00:08:59,700
-♪
-
-221
-00:08:59,740 --> 00:09:02,140
-Shit.
-This morning at 6:{\c}07 a. m.,
-
-222
-00:09:02,170 --> 00:09:05,240
+181
+00:09:02,175 --> 00:09:05,245
 the Dark Army
 tried to run Stage 2.
 
-223
-00:09:05,270 --> 00:09:08,010
+182
+00:09:05,278 --> 00:09:08,015
 My patch stopped them,
 but it doesn't change the fact
 
-224
-00:09:08,040 --> 00:09:10,610
+183
+00:09:08,048 --> 00:09:10,618
 they're trying to blow up
 the downtown building today.
 
-225
-00:09:10,650 --> 00:09:14,020
-- Damn, dude, Bobbi from HR
+184
+00:09:10,651 --> 00:09:14,021
+Damn, dude, Bobbi from HR
 is rolling up with Security.
 
-226
-00:09:14,050 --> 00:09:15,880
+185
+00:09:14,054 --> 00:09:15,889
 Wonder who they're axing.
 
-227
-00:09:15,920 --> 00:09:18,220
-<font color="#ff00ff">[indistinct radio chatter]</font>
-
-228
-00:09:18,250 --> 00:09:20,660
-- Mr. Alderson,
+186
+00:09:18,258 --> 00:09:20,661
+Mr. Alderson,
 thank you for waiting.
 
-229
-00:09:20,690 --> 00:09:23,030
+187
+00:09:20,694 --> 00:09:23,030
 I looked into this.
 It looks like we cannot
 
-230
-00:09:23,060 --> 00:09:24,930
+188
+00:09:23,063 --> 00:09:24,932
 restore your account
 at this time.
 
-231
-00:09:24,960 --> 00:09:27,760
+189
+00:09:24,965 --> 00:09:27,768
 Is there anything else I can...
 
-232
-00:09:27,800 --> 00:09:31,230
-- Samar is right.
+190
+00:09:27,801 --> 00:09:31,238
+Samar is right.
 HR is firing someone.
 
-233
-00:09:31,270 --> 00:09:33,340
+191
+00:09:31,271 --> 00:09:33,340
 Me. Fuck...
 
-234
-00:09:33,370 --> 00:09:35,840
+192
+00:09:33,373 --> 00:09:35,843
 I can't leave the building
 until I get back on a machine
 
-235
-00:09:35,870 --> 00:09:37,070
+193
+00:09:35,876 --> 00:09:37,086
 and figure out
 how they're planning on
 
-236
-00:09:37,110 --> 00:09:38,910
+194
+00:09:37,110 --> 00:09:38,912
 getting around my patch.
 
-237
-00:09:38,940 --> 00:09:40,980
+195
+00:09:38,946 --> 00:09:40,981
 Samar, I need you
 to distract them for me.
 
-238
-00:09:41,010 --> 00:09:42,240
+196
+00:09:41,014 --> 00:09:42,249
 Wait, what?
 
-239
-00:09:42,280 --> 00:09:43,880
+197
+00:09:42,282 --> 00:09:43,884
 Help me figure this out.
 
-240
-00:09:43,910 --> 00:09:46,280
-Do not leave me.
-Stay focused.
+198
+00:09:43,917 --> 00:09:46,286
+Do not leave me. Stay focused.
 
-241
-00:09:46,310 --> 00:09:49,280
-<font color="#ff00ff">[dramatic percussive music]</font>
-
-242
-00:09:49,320 --> 00:09:56,360
-♪
-
-243
-00:10:04,330 --> 00:10:05,900
-- Excuse me,
+199
+00:10:04,337 --> 00:10:05,906
+Excuse me,
 I had a question for you...
 
-244
-00:10:05,930 --> 00:10:07,070
-- We're looking for
+200
+00:10:05,939 --> 00:10:07,083
+We're looking for
 Elliot Alderson.
 
-245
-00:10:07,100 --> 00:10:08,700
+201
+00:10:07,107 --> 00:10:08,709
 Do you know where he is?
 
-246
-00:10:08,740 --> 00:10:10,210
-- Oh, yeah, yeah,
-he's on floor 11.
+202
+00:10:08,742 --> 00:10:10,210
+Yeah, yeah, he's on floor 11.
 
-247
-00:10:10,240 --> 00:10:12,070
+203
+00:10:10,243 --> 00:10:12,079
 You know, they have
 the best bathrooms,
 
-248
-00:10:12,110 --> 00:10:13,810
+204
+00:10:12,112 --> 00:10:13,823
 and he likes to take his
 morning dump around this time.
 
-249
-00:10:13,840 --> 00:10:15,740
-- Samar, you need to
+205
+00:10:13,847 --> 00:10:15,749
+Samar, you need to
 be serious right now.
 
-250
-00:10:15,780 --> 00:10:17,380
+206
+00:10:15,783 --> 00:10:17,393
 We have talked about these
-micro-aggressions of yours.
+microaggressions of yours.
 
-251
-00:10:17,410 --> 00:10:19,010
+207
+00:10:17,417 --> 00:10:19,019
 I am being serious.
 
-252
-00:10:19,050 --> 00:10:20,050
+208
+00:10:19,052 --> 00:10:20,063
 He told me he was crowning
 his whole commute.
 
-253
-00:10:20,080 --> 00:10:21,320
+209
+00:10:20,087 --> 00:10:21,321
 He was just here.
 
-254
-00:10:21,350 --> 00:10:22,990
-- We need eyes on
-Elliot Alderson.
+210
+00:10:21,354 --> 00:10:22,990
+We need eyes on Elliot Alderson.
 
-255
-00:10:23,020 --> 00:10:24,720
-- Elliot, I didn't know
+211
+00:10:23,023 --> 00:10:24,725
+Elliot, I didn't know
 if you'd be here.
 
-256
-00:10:24,750 --> 00:10:26,320
+212
+00:10:24,758 --> 00:10:26,335
 - Janet, I...
 - Great news on your proposal.
 
-257
-00:10:26,350 --> 00:10:28,020
+213
+00:10:26,359 --> 00:10:28,037
 Starting with
 the Southwest region this week,
 
-258
-00:10:28,060 --> 00:10:29,860
+214
+00:10:28,061 --> 00:10:29,863
 all paper records
 will be digitized locally.
 
-259
-00:10:29,890 --> 00:10:31,990
+215
+00:10:29,897 --> 00:10:31,999
 I tried to find you on Friday.
 I... you weren't in.
 
-260
-00:10:32,030 --> 00:10:34,230
+216
+00:10:32,032 --> 00:10:34,234
 I wanted to congratulate you
 in person.
 
-261
-00:10:34,260 --> 00:10:35,700
+217
+00:10:34,267 --> 00:10:35,703
 Before we know it,
 the database...
 
-262
-00:10:35,730 --> 00:10:37,200
+218
+00:10:35,736 --> 00:10:37,204
 Did you hear what she said?
 
-263
-00:10:37,230 --> 00:10:39,800
-I wasn't in Friday.
-Where was I?
+219
+00:10:37,237 --> 00:10:39,807
+I wasn't in Friday. Where was I?
 
-264
-00:10:39,840 --> 00:10:43,070
+220
+00:10:39,840 --> 00:10:43,076
 When did my program halt?
 Why can't I remember? Wait...
 
-265
-00:10:43,110 --> 00:10:45,710
-Mr. Robot...
+221
+00:10:43,110 --> 00:10:45,713
+- Mr. Robot...
 - Mr. what?
 
-266
-00:10:45,740 --> 00:10:47,080
-- What day is it
-today?
+222
+00:10:45,746 --> 00:10:47,080
+What day is it today?
 
-267
-00:10:47,110 --> 00:10:48,940
-- You know it's gonna be
+223
+00:10:47,114 --> 00:10:48,949
+You know it's gonna be
 a long week
 
-268
-00:10:48,980 --> 00:10:50,210
+224
+00:10:48,982 --> 00:10:50,226
 if you gotta ask on a Monday.
 Is everything all right?
 
-269
-00:10:50,250 --> 00:10:51,710
-- Janet,
-I can't talk right now.
+225
+00:10:50,250 --> 00:10:51,719
+Janet, I can't talk right now.
 
-270
-00:10:51,750 --> 00:10:53,750
-There's an I. T. emergency
-on 29.
+226
+00:10:51,752 --> 00:10:53,754
+There's an I.T. emergency on 29.
 
-271
-00:10:53,780 --> 00:10:55,450
-♪
-
-272
-00:10:55,480 --> 00:10:58,020
+227
+00:10:55,488 --> 00:10:58,025
 Last thing I remember
 was the E Corp party.
 
-273
-00:10:58,050 --> 00:10:59,860
+228
+00:10:58,058 --> 00:10:59,860
 That was four days ago.
 
-274
-00:10:59,890 --> 00:11:02,260
+229
+00:10:59,893 --> 00:11:02,262
 Did Mr. Robot really
 take over for that long?
 
-275
-00:11:02,290 --> 00:11:04,390
-<font color="#ff00ff">[synths whirring]</font>
+230
+00:11:04,431 --> 00:11:06,399
+Don't look up. Security cameras.
 
-276
-00:11:04,430 --> 00:11:06,390
-Don't look up.
-Security cameras.
-
-277
-00:11:06,430 --> 00:11:08,130
-<font color="#ff00ff">[phone buzzes]</font>
-
-278
-00:11:08,160 --> 00:11:10,400
+231
+00:11:08,168 --> 00:11:10,403
 That's right. Darlene.
 I remember now.
 
-279
-00:11:10,430 --> 00:11:12,770
+232
+00:11:10,437 --> 00:11:12,773
 She was supposed
 to follow me... him.
 
-280
-00:11:12,800 --> 00:11:14,200
+233
+00:11:12,806 --> 00:11:14,207
 You know what I fucking mean.
 
-281
-00:11:14,240 --> 00:11:16,040
+234
+00:11:14,241 --> 00:11:16,043
 She must've seen Mr. Robot.
 
-282
-00:11:16,070 --> 00:11:17,910
+235
+00:11:16,076 --> 00:11:17,911
 Darlene...
-- I can barely hear you.
+I can barely hear you.
 
-283
-00:11:17,940 --> 00:11:19,270
+236
+00:11:17,945 --> 00:11:19,279
 It's a madhouse down here.
 
-284
-00:11:19,310 --> 00:11:21,440
+237
+00:11:19,312 --> 00:11:21,448
 You were gone all weekend.
 
-285
-00:11:21,480 --> 00:11:23,350
+238
+00:11:21,481 --> 00:11:23,359
 You left Flipper alone. I had
 to give him to your landlord.
 
-286
-00:11:23,380 --> 00:11:25,150
-- Listen to me.
-Did you follow me?
+239
+00:11:23,383 --> 00:11:25,152
+Listen to me. Did you follow me?
 
-287
-00:11:25,180 --> 00:11:27,850
+240
+00:11:25,185 --> 00:11:27,855
 Did you see him?
-- Okay, just come downstairs.
+Okay, just come downstairs.
 
-288
-00:11:27,880 --> 00:11:29,380
-- I'm getting fired.
+241
+00:11:27,888 --> 00:11:29,398
+I'm getting fired.
 I can't leave until I've...
 
-289
-00:11:29,420 --> 00:11:31,220
-<font color="#ff00ff">[door opens]</font>
-- Ma'am. Check the stairway.
+242
+00:11:29,422 --> 00:11:31,224
+Ma'am. Check the stairway.
 
-290
-00:11:31,250 --> 00:11:34,190
-- Elliot?
-Elli...
+243
+00:11:31,258 --> 00:11:34,194
+Elliot? Elli...
 
-291
-00:11:34,220 --> 00:11:37,260
+244
+00:11:34,227 --> 00:11:37,264
 I'm going to get him.
 
-292
-00:11:37,290 --> 00:11:39,030
-<font color="#ff00ff">[doors opening]</font>
-
-293
-00:11:39,060 --> 00:11:41,360
+245
+00:11:39,066 --> 00:11:41,368
 All I know is it's been
 six fucking weeks,
 
-294
-00:11:41,400 --> 00:11:43,430
+246
+00:11:41,401 --> 00:11:43,436
 and I haven't had
 a weekend with my son.
 
-295
-00:11:43,470 --> 00:11:45,200
-<font color="#ff00ff">[discordant synth music]</font>
-
-296
-00:11:45,230 --> 00:11:46,870
+247
+00:11:45,238 --> 00:11:46,874
 I did trade the car.
 
-297
-00:11:46,900 --> 00:11:49,070
+248
+00:11:46,907 --> 00:11:49,076
 I'm taking the subway. So what?
 
-298
-00:11:49,100 --> 00:11:50,770
+249
+00:11:49,109 --> 00:11:50,778
 I'm picking him up
 from school today.
 
-299
-00:11:50,810 --> 00:11:52,410
-- They cut
-my access privileges.
+250
+00:11:50,811 --> 00:11:52,412
+They cut my access privileges.
 
-300
-00:11:52,440 --> 00:11:53,410
-- I completely disagree.
+251
+00:11:52,445 --> 00:11:53,413
+I completely disagree.
 I think he definitely loves me.
 
-301
-00:11:53,440 --> 00:11:56,410
+252
+00:11:53,446 --> 00:11:56,416
 Sir... Sir...
 
-302
-00:11:56,440 --> 00:11:59,410
-♪
-
-303
-00:11:59,450 --> 00:12:01,980
-- Are you gonna really
+253
+00:11:59,452 --> 00:12:01,989
+Are you gonna really
 get into that right now?
 
-304
-00:12:02,020 --> 00:12:04,850
+254
+00:12:02,022 --> 00:12:04,858
 That was one time
 I told him I hated him.
 
-305
-00:12:04,890 --> 00:12:08,220
-♪
+255
+00:12:08,261 --> 00:12:11,331
+I'm going to attract attention.
 
-306
-00:12:08,260 --> 00:12:11,330
-- I'm going to
-attract attention.
-
-307
-00:12:11,360 --> 00:12:14,260
+256
+00:12:11,364 --> 00:12:14,267
 I have to remain calm.
 
-308
-00:12:14,300 --> 00:12:16,930
+257
+00:12:14,301 --> 00:12:16,937
 Take deep breaths.
-<font color="#ff00ff">[electrical crackling]</font>
 
-309
-00:12:16,970 --> 00:12:18,830
+258
+00:12:16,970 --> 00:12:18,839
 Be cool.
 
-310
-00:12:18,870 --> 00:12:20,300
+259
+00:12:18,872 --> 00:12:20,307
 Don't panic.
 
-311
-00:12:20,340 --> 00:12:22,940
+260
+00:12:20,340 --> 00:12:22,943
 Slow everything way down.
 
-312
-00:12:22,970 --> 00:12:25,840
-<font color="#ff00ff">[audio modulates]</font>
-
-313
-00:12:25,870 --> 00:12:27,310
+261
+00:12:25,879 --> 00:12:27,314
 Blend in.
 
-314
-00:12:27,340 --> 00:12:30,380
+262
+00:12:27,347 --> 00:12:30,383
 Look bored, broken.
 
-315
-00:12:30,410 --> 00:12:33,780
+263
+00:12:30,417 --> 00:12:33,787
 Get a blank office stare
 on my face.
 
-316
-00:12:33,820 --> 00:12:36,920
+264
+00:12:33,821 --> 00:12:36,924
 This is how they do it,
 isn't it?
 
-317
-00:12:36,950 --> 00:12:38,150
+265
+00:12:36,957 --> 00:12:38,167
 How they're able
 to watch the world
 
-318
-00:12:38,190 --> 00:12:40,860
+266
+00:12:38,191 --> 00:12:40,861
 fall apart around them?
 
-319
-00:12:40,890 --> 00:12:44,560
-Because to them,
-this is normal.
+267
+00:12:40,894 --> 00:12:44,564
+Because to them, this is normal.
 
-320
-00:12:44,590 --> 00:12:47,060
+268
+00:12:44,597 --> 00:12:47,067
 It's all they know.
 
-321
-00:12:47,100 --> 00:12:50,130
+269
+00:12:47,100 --> 00:12:50,137
 Maybe I can learn from them.
 
-322
+270
 00:12:50,170 --> 00:12:53,140
 I wish I could see myself
 through your eyes.
 
-323
-00:12:53,170 --> 00:12:55,900
+271
+00:12:53,173 --> 00:12:55,909
 Don't you wish you could
 see yourself through mine?
 
-324
-00:12:55,940 --> 00:12:58,110
+272
+00:12:55,943 --> 00:12:58,111
 As we step through our code,
 line by line,
 
-325
-00:12:58,140 --> 00:13:01,280
+273
+00:12:58,145 --> 00:13:01,281
 debugging it to find the cause
 of our runtime error.
 
-326
-00:13:01,310 --> 00:13:02,950
+274
+00:13:01,314 --> 00:13:02,950
 What am I doing?
 
-327
-00:13:02,980 --> 00:13:04,280
-I'm still attracting
-attention.
+275
+00:13:02,983 --> 00:13:04,284
+I'm still attracting attention.
 
-328
-00:13:04,310 --> 00:13:05,980
+276
+00:13:04,317 --> 00:13:05,986
 I'll still get caught,
 
-329
-00:13:06,010 --> 00:13:07,820
+277
+00:13:06,019 --> 00:13:07,821
 and it'll be
 painfully slow to watch.
 
-330
-00:13:07,850 --> 00:13:10,320
+278
+00:13:07,855 --> 00:13:10,323
 This isn't gonna work.
-<font color="#ff00ff">[audio speeds up]</font>
 
-331
-00:13:10,350 --> 00:13:13,460
+279
+00:13:10,357 --> 00:13:13,460
 We need to find an open space,
 a network jack.
 
-332
-00:13:13,490 --> 00:13:16,460
-<font color="#ff00ff">[solemn music]</font>
-
-333
-00:13:16,490 --> 00:13:18,390
-♪
-
-334
-00:13:18,430 --> 00:13:21,230
+280
+00:13:18,431 --> 00:13:21,234
 God damn it, it's the start
 of the work week.
 
-335
-00:13:21,260 --> 00:13:23,070
-Monday morning attendance:{\c}
+281
+00:13:21,268 --> 00:13:23,070
+Monday morning attendance:
 
-336
-00:13:23,100 --> 00:13:24,530
+282
+00:13:23,103 --> 00:13:24,547
 All of the conference rooms
 are booked,
 
-337
-00:13:24,570 --> 00:13:28,070
+283
+00:13:24,571 --> 00:13:28,075
 and all of the cubicles
 are full.
 
-338
-00:13:28,100 --> 00:13:31,970
+284
+00:13:28,108 --> 00:13:31,979
 I'll have to get someone
 off their work station.
 
-339
-00:13:32,010 --> 00:13:33,310
+285
+00:13:32,012 --> 00:13:33,313
 Here...
 
-340
-00:13:33,340 --> 00:13:35,310
-♪
-
-341
-00:13:35,340 --> 00:13:37,480
+286
+00:13:35,348 --> 00:13:37,484
 She's the perfect candidate.
 
-342
-00:13:37,510 --> 00:13:39,210
-♪
+287
+00:13:46,593 --> 00:13:49,396
+Hi, Edie, I'm Henry from I.T.
 
-343
-00:13:39,250 --> 00:13:42,220
-<font color="#ff00ff">[sniffing]</font>
-
-344
-00:13:42,250 --> 00:13:46,550
-♪
-
-345
-00:13:46,590 --> 00:13:49,390
-Hi, Edie,
-I'm Henry from I. T.
-
-346
-00:13:49,420 --> 00:13:51,560
+288
+00:13:49,429 --> 00:13:51,564
 - Hello.
 - We've detected you using
 
-347
-00:13:51,590 --> 00:13:54,130
+289
+00:13:51,598 --> 00:13:54,134
 some unauthorized
 remote access software
 
-348
-00:13:54,160 --> 00:13:56,900
+290
+00:13:54,167 --> 00:13:56,904
 to connect to your computer
 work station from home.
 
-349
-00:13:56,930 --> 00:13:59,400
-- Oh, my.
-That can't be true.
+291
+00:13:56,937 --> 00:13:59,406
+My. That can't be true.
 
-350
-00:13:59,430 --> 00:14:02,100
-- Don't worry, I'm just gonna
+292
+00:13:59,439 --> 00:14:02,109
+Don't worry, I'm just gonna
 take a look at your machine
 
-351
-00:14:02,140 --> 00:14:04,340
+293
+00:14:02,142 --> 00:14:04,344
 and perform an assessment
 to make sure you don't have
 
-352
-00:14:04,370 --> 00:14:07,040
+294
+00:14:04,377 --> 00:14:07,047
 an unauthorized desktop
 sharing service installed.
 
-353
-00:14:07,080 --> 00:14:09,010
-- Well, I'm gonna
+295
+00:14:07,080 --> 00:14:09,016
+Well, I'm gonna
 have to contest that.
 
-354
-00:14:09,040 --> 00:14:10,510
+296
+00:14:09,049 --> 00:14:10,517
 I've hardened my install
 
-355
-00:14:10,550 --> 00:14:12,510
+297
+00:14:10,550 --> 00:14:12,519
 further than the standard
 configuration,
 
-356
-00:14:12,550 --> 00:14:16,020
+298
+00:14:12,552 --> 00:14:16,023
 including a restrictive
 host base firewall rule set,
 
-357
-00:14:16,050 --> 00:14:19,190
+299
+00:14:16,056 --> 00:14:19,192
 and whitelisting to block
 unauthorized apps from running.
 
-358
-00:14:19,220 --> 00:14:21,090
-- I might've chosen
+300
+00:14:19,226 --> 00:14:21,094
+I might've chosen
 the wrong candidate.
 
-359
-00:14:21,120 --> 00:14:23,990
-- I think I know your culprit,
+301
+00:14:21,128 --> 00:14:23,997
+I think I know your culprit,
 though.
 
-360
-00:14:24,030 --> 00:14:28,000
+302
+00:14:24,031 --> 00:14:28,001
 Fred over there
 uses GoToMyPC all the time.
 
-361
-00:14:28,030 --> 00:14:29,900
+303
+00:14:28,035 --> 00:14:29,903
 Let me introduce you.
 
-362
-00:14:29,930 --> 00:14:31,500
-<font color="#ff00ff">[keyboard clacks]</font>
-
-363
-00:14:31,530 --> 00:14:38,270
-♪
-
-364
-00:14:38,310 --> 00:14:39,640
+304
+00:14:38,311 --> 00:14:39,646
 Fred...
-<font color="#ff00ff">[music plays through earphones]</font>
 
-365
-00:14:39,670 --> 00:14:42,310
-♪
-
-366
-00:14:42,340 --> 00:14:45,350
+305
+00:14:42,349 --> 00:14:45,352
 You loused it up again.
 
-367
-00:14:45,380 --> 00:14:46,950
+306
+00:14:45,385 --> 00:14:46,954
 Hi, Fred.
 
-368
-00:14:46,980 --> 00:14:49,250
-Henry from I. T.
-- Are you serious?
+307
+00:14:46,987 --> 00:14:49,256
+Henry from I.T. Are you serious?
 
-369
-00:14:49,280 --> 00:14:50,450
+308
+00:14:49,289 --> 00:14:50,466
 You gotta take a look
 at my machine now?
 
-370
-00:14:50,490 --> 00:14:52,090
+309
+00:14:50,490 --> 00:14:52,092
 I just got in.
 
-371
-00:14:52,120 --> 00:14:53,360
-- Listen, I just need it
+310
+00:14:52,125 --> 00:14:53,369
+Listen, I just need it
 for 15 minutes.
 
-372
-00:14:53,390 --> 00:14:55,020
-- I'm... I'm backlogged here,
-man.
+311
+00:14:53,393 --> 00:14:55,028
+I'm... I'm backlogged here, man.
 
-373
-00:14:55,060 --> 00:14:57,060
+312
+00:14:55,062 --> 00:14:57,064
 I got my supervisors
 giving me deadlines.
 
-374
-00:14:57,090 --> 00:14:59,460
-- This isn't
-a matter of debate.
+313
+00:14:57,097 --> 00:14:59,466
+This isn't a matter of debate.
 
-375
-00:14:59,490 --> 00:15:02,430
-♪
-
-376
-00:15:02,460 --> 00:15:05,500
-- Whatever.
+314
+00:15:02,469 --> 00:15:05,505
+Whatever.
 I'll be in the break room.
 
-377
-00:15:05,530 --> 00:15:12,570
-♪
+315
+00:15:22,322 --> 00:15:25,158
+Log data from the Dark
+Army's backdoored machine.
 
-378
-00:15:13,080 --> 00:15:16,040
-<font color="#ff00ff">[keyboard clacking]</font>
-
-379
-00:15:16,080 --> 00:15:22,280
-♪
-
-380
-00:15:22,320 --> 00:15:25,150
-- Log data from the Dark
-Army's back-doored machine.
-
-381
-00:15:25,190 --> 00:15:29,660
-♪
-
-382
-00:15:29,690 --> 00:15:32,390
+316
+00:15:29,696 --> 00:15:32,399
 They're using this guy's
-account:{\c} Frank Bowman.
+account: Frank Bowman.
 
-383
-00:15:32,430 --> 00:15:35,060
+317
+00:15:32,432 --> 00:15:35,068
 He's a member of the code
 signing architecture team.
 
-384
-00:15:35,100 --> 00:15:37,170
+318
+00:15:35,102 --> 00:15:37,170
 This is what they're doing.
 
-385
-00:15:37,200 --> 00:15:39,300
+319
+00:15:37,204 --> 00:15:39,315
 They wanna sign their own
 firmware and bypass my patch.
 
-386
-00:15:39,330 --> 00:15:40,970
-If they do that,
-they'll blow up
+320
+00:15:39,339 --> 00:15:40,974
+If they do that, they'll blow up
 
-387
-00:15:41,000 --> 00:15:42,240
-the downtown
-recovery building.
+321
+00:15:41,008 --> 00:15:42,248
+the downtown recovery building.
 
-388
-00:15:42,270 --> 00:15:44,310
+322
+00:15:42,275 --> 00:15:44,311
 My only chance to stop it
 
-389
-00:15:44,340 --> 00:15:46,980
+323
+00:15:44,344 --> 00:15:46,980
 is to get to the hardware
 security modules, the HSMs.
 
-390
-00:15:47,010 --> 00:15:49,110
+324
+00:15:47,014 --> 00:15:49,116
 They're on the 23rd floor.
 
-391
-00:15:49,140 --> 00:15:52,110
-<font color="#ff00ff">[fluttering synth music]</font>
-
-392
-00:15:52,150 --> 00:15:59,190
-♪
-
-393
-00:16:02,190 --> 00:16:04,190
-<font color="#ff00ff">[tense tone]</font>
-
-394
-00:16:04,230 --> 00:16:06,230
-- <font color="#ff00ff">[stammers]</font>
+325
+00:16:04,231 --> 00:16:06,233
 No, I haven't seen him.
 
-395
-00:16:06,260 --> 00:16:08,100
-<font color="#ff00ff">[indistinct chatter]</font>
+326
+00:16:21,514 --> 00:16:23,383
+Did he just come in?
 
-396
-00:16:08,130 --> 00:16:15,170
-♪
-
-397
-00:16:16,800 --> 00:16:19,770
-<font color="#ff00ff">[indistinct murmuring]</font>
-
-398
-00:16:19,810 --> 00:16:21,480
-<font color="#ff00ff">[aery ambient music]</font>
-
-399
-00:16:21,510 --> 00:16:23,380
-- Did he just come in?
-- <font color="#ff00ff">[clears throat]</font>
-
-400
-00:16:23,410 --> 00:16:27,220
-♪
-
-401
-00:16:27,250 --> 00:16:30,220
-<font color="#ff00ff">[solemn music]</font>
-
-402
-00:16:30,250 --> 00:16:37,330
-♪
-
-403
-00:16:37,360 --> 00:16:39,190
+327
+00:16:37,364 --> 00:16:39,199
 Hi. How are you?
 
-404
-00:16:39,230 --> 00:16:41,400
-- One sec, I'm just
+328
+00:16:39,232 --> 00:16:41,401
+One sec, I'm just
 finishing up an email.
 
-405
-00:16:41,430 --> 00:16:48,470
-♪
-
-406
-00:16:51,410 --> 00:16:52,570
-- I think that
+329
+00:16:51,411 --> 00:16:52,588
+I think that
 you're in the wrong...
 
-407
-00:16:52,610 --> 00:16:55,580
+330
+00:16:52,612 --> 00:16:55,582
 Almost finished.
 
-408
-00:16:55,610 --> 00:16:58,250
+331
+00:16:55,615 --> 00:16:58,251
 All right...
 
-409
-00:16:58,280 --> 00:17:01,620
+332
+00:16:58,285 --> 00:17:01,621
 Excuse me, very important memo.
 
-410
-00:17:01,650 --> 00:17:03,790
+333
+00:17:01,654 --> 00:17:03,790
 We should get started.
 
-411
-00:17:03,820 --> 00:17:05,790
-- I think you're in
+334
+00:17:03,823 --> 00:17:05,792
+I think you're in
 the wrong room.
 
-412
-00:17:05,820 --> 00:17:08,590
+335
+00:17:05,825 --> 00:17:08,595
 I'm sorry, you are?
 
-413
-00:17:08,620 --> 00:17:12,430
+336
+00:17:08,628 --> 00:17:12,432
 - Sean, head of Sales.
 - Sean. Of course.
 
-414
-00:17:12,460 --> 00:17:13,830
+337
+00:17:12,465 --> 00:17:13,833
 Dave Kennedy.
 
-415
-00:17:13,860 --> 00:17:16,530
+338
+00:17:13,866 --> 00:17:16,536
 I work with Craig
 on the Q4 push.
 
-416
-00:17:16,560 --> 00:17:19,100
+339
+00:17:16,569 --> 00:17:19,106
 I had longer hair then.
 
-417
-00:17:19,130 --> 00:17:21,600
-- Listen, we're on a deadline.
+340
+00:17:19,139 --> 00:17:21,608
+Listen, we're on a deadline.
 We don't have time for this.
 
-418
-00:17:21,640 --> 00:17:23,440
+341
+00:17:21,641 --> 00:17:23,443
 You are in the wrong room.
 
-419
-00:17:23,470 --> 00:17:25,210
-- Well, maybe there's been
+342
+00:17:23,476 --> 00:17:25,212
+Well, maybe there's been
 some confusion,
 
-420
-00:17:25,240 --> 00:17:26,640
+343
+00:17:25,245 --> 00:17:26,646
 either on your end or mine.
 
-421
-00:17:26,670 --> 00:17:29,080
+344
+00:17:26,679 --> 00:17:29,082
 What room did you say this was?
 
-422
-00:17:29,110 --> 00:17:30,510
-44, 12C.
-
-423
-00:17:30,550 --> 00:17:33,350
-44, 12C...
-
-424
-00:17:33,380 --> 00:17:35,320
+345
+00:17:33,386 --> 00:17:35,322
 You know, I think
 that's my room.
 
-425
-00:17:35,350 --> 00:17:38,350
-<font color="#ff00ff">[chuckles]</font> No.
+346
+00:17:35,355 --> 00:17:38,358
+No.
 
-426
-00:17:38,390 --> 00:17:41,160
-- All right,
+347
+00:17:38,391 --> 00:17:41,161
+All right,
 let me check my calendar.
 
-427
-00:17:41,190 --> 00:17:44,460
+348
+00:17:41,194 --> 00:17:44,464
 Service has been
 spotty all morning.
 
-428
-00:17:44,490 --> 00:17:46,190
+349
+00:17:44,497 --> 00:17:46,199
 All right, here it is.
 
-429
-00:17:46,230 --> 00:17:49,300
-Ah, you're right,
-so embarrassing.
+350
+00:17:46,233 --> 00:17:49,302
+You're right, so embarrassing.
 
-430
-00:17:49,330 --> 00:17:51,630
-Uh, I'm not supposed
+351
+00:17:49,336 --> 00:17:51,638
+I'm not supposed
 to be on 44, 12C.
 
-431
-00:17:51,670 --> 00:17:53,700
+352
+00:17:51,671 --> 00:17:53,706
 Yeah, I'm down one floor,
 
-432
-00:17:53,740 --> 00:17:55,740
-43, 12C.
-
-433
-00:17:55,770 --> 00:17:57,470
-- <font color="#ff00ff">[derisive chuckle]</font>
-- <font color="#ff00ff">[chuckles]</font>
-
-434
-00:17:57,510 --> 00:18:00,510
-♪
-
-435
-00:18:00,540 --> 00:18:03,510
-<font color="#ff00ff">[tense music]</font>
-
-436
-00:18:03,550 --> 00:18:07,720
-♪
-
-437
-00:18:07,750 --> 00:18:09,350
+353
+00:18:07,754 --> 00:18:09,356
 I should've known.
 
-438
-00:18:09,380 --> 00:18:11,150
+354
+00:18:09,389 --> 00:18:11,158
 We always have
 chocolate donuts too.
 
-439
-00:18:11,190 --> 00:18:12,720
-Oh, Jesus Christ,
+355
+00:18:11,191 --> 00:18:12,725
+Jesus Christ,
 
-440
-00:18:12,750 --> 00:18:14,690
+356
+00:18:12,759 --> 00:18:14,694
 you have wasted
 enough of our time already.
 
-441
-00:18:14,720 --> 00:18:16,420
+357
+00:18:14,727 --> 00:18:16,429
 We need to get started.
 
-442
-00:18:16,460 --> 00:18:20,800
-♪
-
-443
-00:18:20,830 --> 00:18:23,270
+358
+00:18:20,833 --> 00:18:23,270
 You know, Sean,
 
-444
-00:18:23,300 --> 00:18:26,830
+359
+00:18:23,303 --> 00:18:26,839
 sometimes I get a lot like you,
 
-445
-00:18:26,870 --> 00:18:29,840
-where you have
-a lot of anxiety,
+360
+00:18:26,873 --> 00:18:29,842
+where you have a lot of anxiety,
 
-446
-00:18:29,870 --> 00:18:32,440
+361
+00:18:29,876 --> 00:18:32,445
 because of a deadline,
 
-447
-00:18:32,470 --> 00:18:36,140
+362
+00:18:32,479 --> 00:18:36,149
 you know, where you feel
 pressure, because...
 
-448
-00:18:36,180 --> 00:18:38,410
+363
+00:18:36,183 --> 00:18:38,418
 something has to get done.
 
-449
-00:18:38,450 --> 00:18:40,650
+364
+00:18:38,451 --> 00:18:40,653
 And then,
 all of these damn little
 
-450
-00:18:40,680 --> 00:18:43,550
+365
+00:18:40,687 --> 00:18:43,556
 unknown variables
 keep popping up.
 
-451
-00:18:43,590 --> 00:18:50,630
-♪
-
-452
-00:18:51,660 --> 00:18:53,830
+366
+00:18:51,664 --> 00:18:53,833
 And when you find yourself
 
-453
-00:18:53,860 --> 00:18:56,900
+367
+00:18:53,866 --> 00:18:56,903
 at the center of
 one of those storms,
 
-454
-00:18:56,930 --> 00:18:59,730
+368
+00:18:56,936 --> 00:18:59,739
 man, you just gotta breathe.
 
-455
-00:18:59,770 --> 00:19:03,610
+369
+00:18:59,772 --> 00:19:03,610
 Just let go.
 
-456
-00:19:03,640 --> 00:19:06,370
+370
+00:19:03,643 --> 00:19:06,379
 Get it done.
 
-457
-00:19:06,410 --> 00:19:08,810
-<font color="#ff00ff">[electrical crackling]</font>
-
-458
-00:19:08,840 --> 00:19:14,780
-♪
-
-459
-00:19:14,820 --> 00:19:17,220
-<font color="#ff00ff">[music intensifies]</font>
-
-460
-00:19:17,250 --> 00:19:18,720
+371
+00:19:17,257 --> 00:19:18,725
 Mr. Alderson!
 
-461
-00:19:18,750 --> 00:19:21,620
+372
+00:19:18,758 --> 00:19:21,628
 Mr. Alderson!
 
-462
-00:19:21,660 --> 00:19:24,790
+373
+00:19:21,661 --> 00:19:24,797
 Hey, stop!
 
-463
-00:19:24,830 --> 00:19:27,560
+374
+00:19:24,831 --> 00:19:27,567
 Mr. Alderson, stop!
 
-464
-00:19:27,600 --> 00:19:28,630
+375
+00:19:27,600 --> 00:19:28,635
 St...
 
-465
-00:19:30,300 --> 00:19:32,500
-- Shit,
+376
+00:19:30,303 --> 00:19:32,505
+Shit,
 I'm going through the lobby.
 
-466
-00:19:32,530 --> 00:19:34,270
+377
+00:19:32,539 --> 00:19:34,274
 Security will force me out.
 
-467
-00:19:34,300 --> 00:19:36,470
+378
+00:19:34,307 --> 00:19:36,476
 What should I do?
 What would you do?
 
-468
-00:19:36,500 --> 00:19:38,210
+379
+00:19:36,509 --> 00:19:38,211
 That's right,
 you never answer me.
 
-469
-00:19:38,240 --> 00:19:39,910
-Is this why I created
-Mr. Robot?
+380
+00:19:38,245 --> 00:19:39,912
+Is this why I created Mr. Robot?
 
-470
-00:19:39,940 --> 00:19:41,980
+381
+00:19:39,946 --> 00:19:41,981
 To help me get out of
 situations like this?
 
-471
-00:19:42,010 --> 00:19:43,810
+382
+00:19:42,014 --> 00:19:43,816
 At least he interacts with me.
 
-472
-00:19:43,850 --> 00:19:45,680
+383
+00:19:43,850 --> 00:19:45,685
 If Mr. Robot was here,
 what would he do?
 
-473
-00:19:45,710 --> 00:19:47,250
-- First thing he'd tell you
+384
+00:19:45,718 --> 00:19:47,263
+First thing he'd tell you
 is to stop talking
 
-474
-00:19:47,280 --> 00:19:48,480
+385
+00:19:47,287 --> 00:19:48,488
 to your imaginary friend.
 
-475
-00:19:48,520 --> 00:19:49,920
-- You're not
-really him, though.
+386
+00:19:48,521 --> 00:19:49,922
+You're not really him, though.
 
-476
-00:19:49,950 --> 00:19:51,320
-- <font color="#ff00ff">[chuckles]</font>
+387
+00:19:49,956 --> 00:19:51,324
 Would you stop trying to be
 
-477
-00:19:51,350 --> 00:19:52,890
+388
+00:19:51,358 --> 00:19:52,892
 so technical about everything?
 
-478
-00:19:52,920 --> 00:19:54,490
+389
+00:19:52,925 --> 00:19:54,494
 You know if he were here,
 
-479
-00:19:54,520 --> 00:19:55,920
+390
+00:19:54,527 --> 00:19:55,938
 he'd tell you
 exactly what he told you
 
-480
-00:19:55,960 --> 00:19:57,530
+391
+00:19:55,962 --> 00:19:57,530
 when he said
 to walk away from Vera.
 
-481
-00:19:57,560 --> 00:19:59,330
-This is a zero-sum game.
+392
+00:19:57,564 --> 00:19:59,332
+This is a zerosum game.
 Accept the truth.
 
-482
-00:19:59,360 --> 00:20:01,000
+393
+00:19:59,366 --> 00:20:01,000
 That building
 is going to blow up,
 
-483
-00:20:01,030 --> 00:20:02,530
+394
+00:20:01,033 --> 00:20:02,545
 and there's not a damn thing
 you can do to stop it.
 
-484
-00:20:02,560 --> 00:20:04,730
-- I'll find a way
+395
+00:20:02,569 --> 00:20:04,737
+I'll find a way
 to destroy the HSMs.
 
-485
-00:20:04,770 --> 00:20:06,370
+396
+00:20:04,771 --> 00:20:06,373
 Once I do that,
 there'll be no way
 
-486
-00:20:06,400 --> 00:20:07,940
+397
+00:20:06,406 --> 00:20:07,940
 for the Dark Army
 to run Stage 2.
 
-487
-00:20:07,970 --> 00:20:09,640
-- How are you gonna
-do that, huh?
+398
+00:20:07,974 --> 00:20:09,642
+How are you gonna do that?
 
-488
-00:20:09,670 --> 00:20:10,670
+399
+00:20:09,676 --> 00:20:10,686
 You're about to be
 kicked out, Einstein.
 
-489
-00:20:10,710 --> 00:20:12,370
+400
+00:20:10,710 --> 00:20:12,379
 So the real question is,
 
-490
-00:20:12,410 --> 00:20:14,310
+401
+00:20:12,412 --> 00:20:14,314
 can you get to the HSMs
 before they do?
 
-491
-00:20:14,340 --> 00:20:16,340
-- All I need to do is get
+402
+00:20:14,347 --> 00:20:16,349
+All I need to do is get
 to the ground floor.
 
-492
-00:20:16,380 --> 00:20:18,010
+403
+00:20:16,383 --> 00:20:18,026
 Once I'm there,
 I'll find a way to get back in.
 
-493
-00:20:18,050 --> 00:20:19,910
+404
+00:20:18,050 --> 00:20:19,919
 With the security they have?
 
-494
-00:20:19,950 --> 00:20:21,720
+405
+00:20:19,952 --> 00:20:21,721
 I'll tailgate someone.
 
-495
-00:20:21,750 --> 00:20:23,550
-- Hate to see it, kiddo,
+406
+00:20:21,754 --> 00:20:23,566
+Hate to see it, kiddo,
 but you'd have better luck
 
-496
-00:20:23,590 --> 00:20:25,450
+407
+00:20:23,590 --> 00:20:25,468
 tailgating the parking lot
-at a Yo-Yo Ma concert.
+at a YoYo Ma concert.
 
-497
-00:20:25,490 --> 00:20:27,390
+408
+00:20:25,492 --> 00:20:27,394
 They got all their peepers
 peeled for you.
 
-498
-00:20:27,420 --> 00:20:29,660
+409
+00:20:27,427 --> 00:20:29,662
 - I know my way around.
 - Even if you do get up there,
 
-499
-00:20:29,690 --> 00:20:32,490
+410
+00:20:29,696 --> 00:20:32,499
 you got Bobbi and her
 Keystone Cops looking for you.
 
-500
-00:20:32,530 --> 00:20:34,260
-You'll never get away
-with that.
+411
+00:20:32,532 --> 00:20:34,267
+You'll never get away with that.
 
-501
-00:20:34,300 --> 00:20:35,830
+412
+00:20:34,301 --> 00:20:35,844
 And while you're busy
 spinning your wheels,
 
-502
-00:20:35,860 --> 00:20:37,700
+413
+00:20:35,868 --> 00:20:37,704
 trying to prove
 that piece of wisdom wrong,
 
-503
-00:20:37,730 --> 00:20:39,500
+414
+00:20:37,737 --> 00:20:39,506
 the recovery building's
 going to explode,
 
-504
-00:20:39,530 --> 00:20:41,740
+415
+00:20:39,539 --> 00:20:41,741
 and the people inside
 right along with it.
 
-505
-00:20:41,770 --> 00:20:43,610
-- He's right.
+416
+00:20:41,774 --> 00:20:43,610
+He's right.
 I need to worry about
 
-506
-00:20:43,640 --> 00:20:47,010
+417
+00:20:43,643 --> 00:20:47,013
 the people in the building,
 not the HSMs.
 
-507
-00:20:47,040 --> 00:20:48,810
+418
+00:20:47,046 --> 00:20:48,815
 But there is no he.
 
-508
-00:20:48,840 --> 00:20:51,550
+419
+00:20:48,848 --> 00:20:51,551
 That was just my imagination.
-<font color="#ff00ff">[elevator dings]</font>
 
-509
-00:20:51,580 --> 00:20:53,520
+420
+00:20:51,584 --> 00:20:53,520
 We haven't seen
 each other in months.
 
-510
-00:20:53,550 --> 00:20:56,280
+421
+00:20:53,553 --> 00:20:56,289
 We've been battling each other
 in our own voids.
 
-511
-00:20:56,320 --> 00:20:58,720
+422
+00:20:56,323 --> 00:20:58,725
 But at least now
 I know my next move.
 
-512
-00:20:58,750 --> 00:21:01,990
-<font color="#ff00ff">[elevator door opens,
-indistinct chatter]</font>
-
-513
-00:21:02,020 --> 00:21:04,990
-<font color="#ff00ff">[indistinct radio chatter]</font>
-
-514
-00:21:05,030 --> 00:21:08,000
-<font color="#ff00ff">[solemn music]</font>
-
-515
-00:21:08,030 --> 00:21:09,900
-♪
-
-516
-00:21:09,930 --> 00:21:11,970
-<font color="#ff00ff">[crowd chanting]</font> This is what
+423
+00:21:09,936 --> 00:21:11,971
+This is what
 democracy looks like!
 
-517
-00:21:12,000 --> 00:21:13,600
-- Elliot Alderson,
+424
+00:21:12,004 --> 00:21:13,606
+Elliot Alderson,
 we've been instructed
 
-518
-00:21:13,640 --> 00:21:15,600
+425
+00:21:13,640 --> 00:21:15,608
 to escort you off the premises.
 
-519
-00:21:15,640 --> 00:21:17,340
-- Show me what
-democracy looks like!
-
-520
-00:21:17,370 --> 00:21:18,940
-<font color="#138ce9">All:</font> This is what
-democracy looks like!
-
-521
-00:21:18,970 --> 00:21:20,780
+426
+00:21:15,642 --> 00:21:17,344
 Show me what
 democracy looks like!
 
-522
-00:21:20,810 --> 00:21:22,610
-<font color="#138ce9">All:</font> This is what
+427
+00:21:17,377 --> 00:21:18,945
+This is what
 democracy looks like!
 
-523
-00:21:22,640 --> 00:21:24,510
+428
+00:21:18,978 --> 00:21:20,780
 Show me what
 democracy looks like!
 
-524
-00:21:24,550 --> 00:21:26,410
-<font color="#138ce9">All:</font> This is what
+429
+00:21:20,813 --> 00:21:22,615
+This is what
 democracy looks like!
 
-525
-00:21:26,450 --> 00:21:28,320
+430
+00:21:22,649 --> 00:21:24,517
 Show me what
 democracy looks like!
 
-526
-00:21:28,350 --> 00:21:31,020
-<font color="#138ce9">All:</font> This is what
+431
+00:21:24,551 --> 00:21:26,419
+This is what
 democracy looks like!
 
-527
-00:21:31,050 --> 00:21:33,720
-<font color="#ff00ff">[line ringing]</font>
-- E Corp Recovery Center.
+432
+00:21:26,453 --> 00:21:28,321
+Show me what
+democracy looks like!
 
-528
-00:21:33,760 --> 00:21:35,890
+433
+00:21:28,355 --> 00:21:31,023
+This is what
+democracy looks like!
+
+434
+00:21:31,057 --> 00:21:33,726
+E Corp Recovery Center.
+
+435
+00:21:33,760 --> 00:21:35,895
 How may I direct your call?
-- Listen, there's gonna be
+Listen, there's gonna be
 
-529
-00:21:35,920 --> 00:21:37,760
+436
+00:21:35,928 --> 00:21:37,764
 a buildup of hydrogen
 in the data center.
 
-530
-00:21:37,790 --> 00:21:39,530
-- Sir, I'm having
+437
+00:21:37,797 --> 00:21:39,532
+Sir, I'm having
 trouble hearing you.
 
-531
-00:21:39,560 --> 00:21:41,360
+438
+00:21:39,566 --> 00:21:41,368
 Would you like me to
 connect you...
 
-532
-00:21:41,400 --> 00:21:42,730
-- You've gotta get everyone
+439
+00:21:41,401 --> 00:21:42,745
+You've gotta get everyone
 out of the building now.
 
-533
-00:21:42,760 --> 00:21:43,970
-A spark will ignite
-the hydrogen
+440
+00:21:42,769 --> 00:21:43,979
+A spark will ignite the hydrogen
 
-534
-00:21:44,000 --> 00:21:45,530
+441
+00:21:44,003 --> 00:21:45,538
 and bring the whole place down.
 
-535
-00:21:45,570 --> 00:21:46,730
+442
+00:21:45,572 --> 00:21:46,749
 Have someone look at
 the battery room
 
-536
-00:21:46,770 --> 00:21:48,340
+443
+00:21:46,773 --> 00:21:48,341
 for your UPS devices.
 
-537
-00:21:48,370 --> 00:21:50,100
+444
+00:21:48,375 --> 00:21:50,109
 Sir, UPS?
 
-538
-00:21:50,140 --> 00:21:52,340
+445
+00:21:50,142 --> 00:21:52,345
 We use E Shipping
 for our freight services here.
 
-539
-00:21:52,370 --> 00:21:53,740
+446
+00:21:52,379 --> 00:21:53,756
 Would you like me to
 transfer you to the warehouse?
 
-540
-00:21:53,780 --> 00:21:55,440
-- There's a fucking bomb
+447
+00:21:53,780 --> 00:21:55,448
+There's a fucking bomb
 in your building.
 
-541
-00:21:55,480 --> 00:21:57,450
+448
+00:21:55,482 --> 00:21:57,450
 Clear everyone out now.
 
-542
-00:21:57,480 --> 00:21:59,810
+449
+00:21:57,484 --> 00:21:59,819
 Hopefully that gives everyone
 enough time to get out.
 
-543
-00:21:59,850 --> 00:22:01,520
+450
+00:21:59,852 --> 00:22:01,521
 Now all I need to do
 is find a way to...
 
-544
-00:22:01,550 --> 00:22:02,850
+451
+00:22:01,554 --> 00:22:02,855
 Elliot!
 
-545
-00:22:05,120 --> 00:22:07,120
-- You've gotta help me
+452
+00:22:05,124 --> 00:22:07,126
+You've gotta help me
 get back inside.
 
-546
-00:22:07,150 --> 00:22:08,720
+453
+00:22:07,159 --> 00:22:08,728
 I have to tell you something.
 
-547
-00:22:08,760 --> 00:22:10,660
-- There's a code signing
+454
+00:22:08,761 --> 00:22:10,663
+There's a code signing
 machine on 23.
 
-548
-00:22:10,690 --> 00:22:12,360
+455
+00:22:10,697 --> 00:22:12,817
 We have to find a way to...
-- I'm working with the FBI.
+I'm working with the FBI.
 
-549
-00:22:12,390 --> 00:22:15,430
-<font color="#ff00ff">[tense tone, ringing]</font>
-
-550
-00:22:18,770 --> 00:22:21,000
-<font color="#ff00ff">[reverberating]</font> After Cisco,
+456
+00:22:18,771 --> 00:22:21,007
+After Cisco,
 when the FBI questioned me,
 
-551
-00:22:21,040 --> 00:22:22,770
+457
+00:22:21,040 --> 00:22:22,775
 they did more than that.
 
-552
-00:22:22,800 --> 00:22:24,410
+458
+00:22:22,809 --> 00:22:24,420
 They had everything
-laid out on this board:{\c}
+laid out on this board:
 
-553
-00:22:24,440 --> 00:22:28,480
+459
+00:22:24,444 --> 00:22:28,481
 Us, Angela, Trenton,
 Mobley, everyone.
 
-554
-00:22:28,510 --> 00:22:30,810
+460
+00:22:28,515 --> 00:22:30,817
 They had been following
 our every move for months.
 
-555
-00:22:30,850 --> 00:22:32,710
+461
+00:22:30,850 --> 00:22:32,719
 They knew everything.
 
-556
-00:22:32,750 --> 00:22:34,480
+462
+00:22:32,752 --> 00:22:34,497
 And Tyrell, they think
 he's at the center of it all.
 
-557
-00:22:34,520 --> 00:22:36,380
+463
+00:22:34,521 --> 00:22:36,389
 Wait... wait a minute.
 
-558
-00:22:36,420 --> 00:22:37,790
+464
+00:22:36,423 --> 00:22:37,790
 Back up.
 
-559
-00:22:37,820 --> 00:22:39,890
-<font color="#ff00ff">[dark piano music]</font>
-
-560
-00:22:39,920 --> 00:22:43,390
+465
+00:22:39,926 --> 00:22:43,396
 This... this has been
 going on since Cisco?
 
-561
-00:22:43,430 --> 00:22:45,690
-♪
-
-562
-00:22:45,730 --> 00:22:48,760
+466
+00:22:45,732 --> 00:22:48,768
 You've been working with them?
 The FBI?
 
-563
-00:22:48,800 --> 00:22:51,130
-♪
-
-564
-00:22:51,170 --> 00:22:53,070
+467
+00:22:51,170 --> 00:22:53,072
 Why didn't you tell me?
 
-565
-00:22:53,100 --> 00:22:55,140
+468
+00:22:53,105 --> 00:22:55,141
 I made a deal for us.
 
-566
-00:22:55,170 --> 00:22:57,940
-All they want is Tyrell.
+469
+00:22:55,174 --> 00:22:57,944
+- All they want is Tyrell.
 - What?
 
-567
-00:22:57,970 --> 00:22:59,840
+470
+00:22:57,977 --> 00:22:59,846
 What deal?
 
-568
-00:22:59,870 --> 00:23:03,580
-♪
-
-569
-00:23:03,610 --> 00:23:05,650
+471
+00:23:03,616 --> 00:23:05,652
 Is that why you hacked me?
 
-570
-00:23:05,680 --> 00:23:07,480
+472
+00:23:05,685 --> 00:23:07,487
 For them?
 
-571
-00:23:07,520 --> 00:23:10,050
-♪
-
-572
-00:23:10,080 --> 00:23:11,950
-<font color="#ff00ff">[indistinct radio chatter]</font>
-
-573
-00:23:11,990 --> 00:23:13,920
+473
+00:23:11,991 --> 00:23:13,926
 What's going on?
 
-574
-00:23:13,960 --> 00:23:17,660
-♪
-
-575
-00:23:17,690 --> 00:23:19,730
+474
+00:23:17,697 --> 00:23:19,732
 Are you wearing
 a fucking wire right now?
 
-576
-00:23:19,760 --> 00:23:21,530
+475
+00:23:19,766 --> 00:23:21,534
 No.
 
-577
-00:23:21,560 --> 00:23:24,470
+476
+00:23:21,568 --> 00:23:24,471
 No, they don't even know
 that I'm here.
 
-578
-00:23:24,500 --> 00:23:27,030
+477
+00:23:24,504 --> 00:23:27,039
 Elliot,
 I'm telling you the truth.
 
-579
-00:23:27,070 --> 00:23:29,940
+478
+00:23:27,073 --> 00:23:29,942
 The truth?
 
-580
-00:23:29,970 --> 00:23:33,170
+479
+00:23:29,976 --> 00:23:33,179
 The truth?
 
-581
-00:23:33,210 --> 00:23:36,080
+480
+00:23:33,212 --> 00:23:36,082
 You've been working with
 the FBI behind my back?
 
-582
-00:23:36,110 --> 00:23:38,810
+481
+00:23:36,115 --> 00:23:38,818
 You've been spying on me?
 Am I to blame for this?
 
-583
-00:23:38,850 --> 00:23:41,480
+482
+00:23:38,851 --> 00:23:41,488
 Not telling her
 how much I miss Mr. Robot?
 
-584
-00:23:41,520 --> 00:23:43,590
+483
+00:23:41,521 --> 00:23:43,590
 How a part of me may have
 let all of this happen?
 
-585
-00:23:43,620 --> 00:23:45,020
+484
+00:23:43,623 --> 00:23:45,024
 The other night,
 
-586
-00:23:45,050 --> 00:23:47,620
+485
+00:23:45,057 --> 00:23:47,627
 I followed you
 like you asked me to.
 
-587
-00:23:47,660 --> 00:23:50,060
+486
+00:23:47,660 --> 00:23:50,062
 He snuck out of the apartment
-around 2:{\c}00 a. m.,
+around 2:00 a.m.,
 
-588
-00:23:50,090 --> 00:23:53,160
+487
+00:23:50,096 --> 00:23:53,165
 and met up with Angela.
 
-589
-00:23:53,190 --> 00:23:56,730
+488
+00:23:53,199 --> 00:23:56,736
 She knew it was him.
 
-590
-00:23:56,760 --> 00:23:58,600
+489
+00:23:56,769 --> 00:23:58,614
 I think the two of them
 have been working with...
 
-591
-00:23:58,630 --> 00:24:00,070
+490
+00:23:58,638 --> 00:24:00,072
 Tyrell.
 
-592
-00:24:00,100 --> 00:24:01,900
+491
+00:24:00,106 --> 00:24:01,908
 That's it.
 
-593
-00:24:01,940 --> 00:24:04,540
+492
+00:24:01,941 --> 00:24:04,544
 My runtime error.
-<font color="#ff00ff">[electrical crackling]</font>
 
-594
-00:24:04,570 --> 00:24:07,780
+493
+00:24:04,577 --> 00:24:07,780
 I saw her...
 
-595
-00:24:07,810 --> 00:24:10,880
+494
+00:24:07,814 --> 00:24:10,883
 And him.
 
-596
-00:24:10,910 --> 00:24:13,520
+495
+00:24:10,917 --> 00:24:13,520
 I was standing in a room...
 
-597
-00:24:13,550 --> 00:24:15,820
+496
+00:24:13,553 --> 00:24:15,822
 and they were together.
 Angela is the one behind this.
 
-598
-00:24:15,850 --> 00:24:18,650
+497
+00:24:15,855 --> 00:24:18,658
 I gotta stop her.
-- Angela's been betraying you?
+Angela's been betraying you?
 
-599
-00:24:18,690 --> 00:24:20,120
-<font color="#ff00ff">[electrical crackling]</font>
-
-600
-00:24:20,150 --> 00:24:21,990
+498
+00:24:20,159 --> 00:24:21,994
 So have you.
 
-601
-00:24:22,020 --> 00:24:24,490
-♪
-
-602
-00:24:24,530 --> 00:24:26,630
+499
+00:24:24,531 --> 00:24:26,633
 You kept this from me.
 
-603
-00:24:26,660 --> 00:24:29,860
-♪
-
-604
-00:24:29,900 --> 00:24:33,740
+500
+00:24:29,902 --> 00:24:33,740
 You've been trying to play me
 this whole fucking time?
 
-605
-00:24:33,770 --> 00:24:35,700
-<font color="#138ce9">All:</font> This is what
+501
+00:24:33,773 --> 00:24:35,708
+This is what
 democracy looks like!
 
-606
-00:24:35,740 --> 00:24:37,510
-- Show me what
-democracy looks like!
-
-607
-00:24:37,540 --> 00:24:39,210
-<font color="#138ce9">All:</font> This is what
-democracy looks like!
-
-608
-00:24:39,240 --> 00:24:40,980
+502
+00:24:35,742 --> 00:24:37,510
 Show me what
 democracy looks like!
 
-609
-00:24:41,010 --> 00:24:43,710
-<font color="#138ce9">All:</font> This is what
+503
+00:24:37,544 --> 00:24:39,211
+This is what
 democracy looks like!
 
-610
-00:24:43,750 --> 00:24:46,780
-<font color="#ff00ff">[sirens blaring]</font>
+504
+00:24:39,245 --> 00:24:40,980
+Show me what
+democracy looks like!
 
-611
-00:24:49,120 --> 00:24:52,120
+505
+00:24:41,013 --> 00:24:43,716
+This is what
+democracy looks like!
+
+506
+00:24:49,121 --> 00:24:52,124
 - Four, three, two, one...
 - We are live.
 
-612
-00:24:52,150 --> 00:24:54,620
-<font color="#138ce9">All:</font> This is what
+507
+00:24:52,158 --> 00:24:54,627
+This is what
 democracy looks like!
 
-613
-00:24:54,660 --> 00:24:55,760
+508
+00:24:54,661 --> 00:24:55,762
 Okay, we've live in five,
 
-614
-00:24:55,790 --> 00:24:58,560
+509
+00:24:55,795 --> 00:24:58,565
 four, three..
 
-615
-00:24:58,590 --> 00:25:00,700
-- Thanks, Jack. I'm here
+510
+00:24:58,598 --> 00:25:00,700
+Thanks, Jack. I'm here
 outside E Corp headquarters,
 
-616
-00:25:00,730 --> 00:25:03,260
+511
+00:25:00,733 --> 00:25:03,269
 and while it's typical
 to see daily protesters,
 
-617
-00:25:03,300 --> 00:25:07,000
+512
+00:25:03,302 --> 00:25:07,006
 it's unusual for the crowd
 to be this size and this vocal.
 
-618
-00:25:07,030 --> 00:25:08,770
+513
+00:25:07,039 --> 00:25:08,775
 An NYPD official told me
 
-619
-00:25:08,800 --> 00:25:10,840
+514
+00:25:08,808 --> 00:25:10,843
 they're taking the situation
 very seriously,
 
-620
-00:25:10,870 --> 00:25:13,640
+515
+00:25:10,877 --> 00:25:13,646
 and sending in additional units
 for crowd control.
 
-621
-00:25:13,680 --> 00:25:16,010
+516
+00:25:13,680 --> 00:25:16,015
 What's less clear is why today.
 
-622
-00:25:16,040 --> 00:25:19,050
-With an all-time high
+517
+00:25:16,048 --> 00:25:19,051
+With an alltime high
 unemployment rate of 26%,
 
-623
-00:25:19,080 --> 00:25:21,720
+518
+00:25:19,085 --> 00:25:21,721
 giving many citizens
 something to march about,
 
-624
-00:25:21,750 --> 00:25:23,620
+519
+00:25:21,754 --> 00:25:23,623
 most of the protesters
 I spoke with
 
-625
-00:25:23,650 --> 00:25:26,320
+520
+00:25:23,656 --> 00:25:26,325
 did give me varying answers
 as to why they're here.
 
-626
-00:25:26,350 --> 00:25:28,020
+521
+00:25:26,358 --> 00:25:28,027
 From forced currency changes
 
-627
-00:25:28,060 --> 00:25:30,120
+522
+00:25:28,060 --> 00:25:30,129
 to corporate greed
 and corruption,
 
-628
-00:25:30,160 --> 00:25:31,930
-I even had
-one gentlemen tell me
+523
+00:25:30,162 --> 00:25:31,931
+I even had one gentlemen tell me
 
-629
-00:25:31,960 --> 00:25:34,260
+524
+00:25:31,964 --> 00:25:34,266
 he was here to protest
-this morning's U. N. vote,
+this morning's U.N. vote,
 
-630
-00:25:34,300 --> 00:25:38,730
+525
+00:25:34,300 --> 00:25:38,738
 that he felt it was
 somehow connected to E Corp.
 
-631
-00:25:38,770 --> 00:25:40,670
-<font color="#138ce9">All:</font> This is what
+526
+00:25:38,771 --> 00:25:40,673
+This is what
 democracy looks like!
 
-632
-00:25:40,700 --> 00:25:42,300
-- Show me what
-democracy looks like!
-
-633
-00:25:42,340 --> 00:25:44,270
-<font color="#138ce9">All:</font> This is what
-democracy looks like!
-
-634
-00:25:44,310 --> 00:25:46,110
+527
+00:25:40,707 --> 00:25:42,308
 Show me what
 democracy looks like!
 
-635
-00:25:46,140 --> 00:25:48,010
-<font color="#138ce9">All:</font> This is what
+528
+00:25:42,341 --> 00:25:44,276
+This is what
 democracy looks like!
 
-636
-00:25:48,040 --> 00:25:49,810
+529
+00:25:44,310 --> 00:25:46,112
 Show me what
 democracy looks like!
 
-637
-00:25:49,840 --> 00:25:51,680
-<font color="#138ce9">All:</font> This is what
+530
+00:25:46,145 --> 00:25:48,014
+This is what
 democracy looks like!
 
-638
-00:25:51,710 --> 00:25:53,280
+531
+00:25:48,047 --> 00:25:49,816
 Show me what
 democracy looks like!
 
-639
-00:25:53,310 --> 00:25:55,220
-<font color="#138ce9">All:</font> This is what
+532
+00:25:49,849 --> 00:25:51,684
+This is what
 democracy looks like!
 
-640
-00:25:55,250 --> 00:25:57,020
+533
+00:25:51,718 --> 00:25:53,285
 Show me what
 democracy looks like!
 
-641
-00:25:57,050 --> 00:25:58,990
-<font color="#138ce9">All:</font> This is what
+534
+00:25:53,319 --> 00:25:55,221
+This is what
 democracy looks like!
 
-642
-00:25:59,020 --> 00:26:00,690
+535
+00:25:55,254 --> 00:25:57,023
+Show me what
+democracy looks like!
+
+536
+00:25:57,056 --> 00:25:58,991
+This is what
+democracy looks like!
+
+537
+00:25:59,025 --> 00:26:00,693
 Settle down!
 
-643
-00:26:00,720 --> 00:26:02,320
-<font color="#138ce9">All:</font> This is what
+538
+00:26:00,727 --> 00:26:02,328
+This is what
 democracy looks like!
 
-644
-00:26:02,360 --> 00:26:04,360
+539
+00:26:02,361 --> 00:26:04,363
 Everybody!
 
-645
-00:26:04,390 --> 00:26:06,790
+540
+00:26:04,396 --> 00:26:06,799
 Settle down!
 
-646
-00:26:06,830 --> 00:26:08,660
+541
+00:26:06,833 --> 00:26:08,668
 Everyone!
 
-647
-00:26:08,700 --> 00:26:11,300
+542
+00:26:08,701 --> 00:26:11,303
 Settle down!
 
-648
-00:26:11,330 --> 00:26:13,670
+543
+00:26:11,337 --> 00:26:13,673
 Everyone...
-<font color="#ff00ff">[glass shatters]</font>
 
-649
-00:26:13,700 --> 00:26:16,140
-<font color="#ff00ff">[people clamoring,
-teargas hissing]</font>
-
-650
-00:26:16,170 --> 00:26:17,770
-<font color="#ff00ff">[grunts]</font>
-
-651
-00:26:17,810 --> 00:26:20,140
-<font color="#ff00ff">[dramatic percussive music]</font>
-
-652
-00:26:20,170 --> 00:26:22,780
-<font color="#ff00ff">[glass shattering]</font>
-
-653
-00:26:22,810 --> 00:26:24,280
-♪
-
-654
-00:26:24,310 --> 00:26:26,710
-<font color="#ff00ff">[grunting]</font>
-
-655
-00:26:26,750 --> 00:26:29,080
-<font color="#ff00ff">[people screaming]</font>
-<font color="#ff00ff">[glass shatters]</font>
-
-656
-00:26:29,120 --> 00:26:36,160
-♪
-
-657
-00:26:39,760 --> 00:26:42,200
-<font color="#ff00ff">[elevator dings]</font>
-
-658
-00:26:42,230 --> 00:26:44,230
+544
+00:26:42,234 --> 00:26:44,236
 Scan your badge.
 
-659
-00:26:44,270 --> 00:26:46,130
+545
+00:26:44,270 --> 00:26:46,138
 I said scan your badge now!
 
-660
-00:26:46,170 --> 00:26:48,170
-<font color="#ff00ff">[mouthing words]</font>
-
-661
-00:26:48,200 --> 00:26:49,870
-<font color="#ff00ff">[beeping]</font>
-
-662
-00:26:49,900 --> 00:26:52,710
-<font color="#ff00ff">[ominous music]</font>
-
-663
-00:26:52,740 --> 00:26:57,210
-<font color="#ff00ff">[woman speaking on TV]</font>
-
-664
-00:26:57,240 --> 00:26:59,010
+546
+00:26:57,249 --> 00:26:59,018
 Tensions are running high,
 
-665
-00:26:59,050 --> 00:27:00,950
+547
+00:26:59,051 --> 00:27:00,953
 as the United Nations vote
 approaches.
 
-666
-00:27:00,980 --> 00:27:03,220
+548
+00:27:00,987 --> 00:27:03,222
 While no one can predict
 whether today's resolution
 
-667
-00:27:03,250 --> 00:27:06,050
+549
+00:27:03,255 --> 00:27:06,058
 will pass, all five
 permanent members,
 
-668
-00:27:06,090 --> 00:27:09,060
+550
+00:27:06,092 --> 00:27:09,061
 China, France,
 the Russian federation,
 
-669
-00:27:09,090 --> 00:27:11,690
+551
+00:27:09,095 --> 00:27:11,698
 the United Kingdom,
 and the United States
 
-670
-00:27:11,730 --> 00:27:13,760
-must be in
-unanimous agreement
+552
+00:27:11,731 --> 00:27:13,766
+must be in unanimous agreement
 
-671
-00:27:13,800 --> 00:27:16,700
-for the measure
-to be adopted.
+553
+00:27:13,800 --> 00:27:16,703
+for the measure to be adopted.
 
-672
-00:27:16,730 --> 00:27:18,670
-<font color="#138ce9">Chorus:</font> ♪ One, two, three, four
+554
+00:27:16,736 --> 00:27:18,671
+One, two, three, four
 
-673
-00:27:18,700 --> 00:27:22,270
-♪ One, two, three,
-four, five, six ♪
+555
+00:27:18,705 --> 00:27:22,274
+One, two, three,
+four, five, six
 
-674
-00:27:22,300 --> 00:27:24,740
-♪ One, two, three, four
+556
+00:27:22,308 --> 00:27:24,744
+One, two, three, four
 
-675
-00:27:24,770 --> 00:27:27,040
-♪ Five, six, seven, eight
+557
+00:27:24,777 --> 00:27:27,046
+Five, six, seven, eight
 
-676
-00:27:27,070 --> 00:27:29,340
-♪ One, two, three, four
+558
+00:27:27,079 --> 00:27:29,348
+One, two, three, four
 
-677
-00:27:29,380 --> 00:27:31,410
-♪ One, two, three,
-four, five, six ♪
+559
+00:27:29,381 --> 00:27:31,417
+One, two, three,
+four, five, six
 
-678
-00:27:31,450 --> 00:27:33,950
-<font color="#ff00ff">[elevator dings, door opens]</font>
-
-679
-00:27:33,980 --> 00:27:35,420
-<font color="#ff00ff">[melodic counting speeds up]</font>
-
-680
-00:27:35,450 --> 00:27:37,750
+560
+00:27:35,454 --> 00:27:37,757
 Yeah! Got it, whoo!
 
-681
-00:27:37,790 --> 00:27:39,390
-♪
+561
+00:27:41,761 --> 00:27:43,462
+Please stay on your floor.
 
-682
-00:27:39,420 --> 00:27:41,720
-- <font color="#ff00ff">[grunts]</font>
-<font color="#ff00ff">[spray paint can hissing]</font>
-
-683
-00:27:41,760 --> 00:27:43,460
-<font color="#ff00ff">[woman speaking over speaker]</font>
-- Please stay on your floor.
-
-684
-00:27:43,490 --> 00:27:46,890
+562
+00:27:43,495 --> 00:27:46,899
 Lock all doors, and find
 your nearest safe zone.
 
-685
-00:27:46,930 --> 00:27:49,000
+563
+00:27:46,933 --> 00:27:49,001
 Stay away from
 elevators and stereos
 
-686
-00:27:49,030 --> 00:27:52,230
+564
+00:27:49,035 --> 00:27:52,238
 until further notice.
-- <font color="#ff00ff">[screams]</font>
 
-687
-00:27:52,270 --> 00:27:54,870
-<font color="#ff00ff">[grunting]</font>
-
-688
-00:27:54,900 --> 00:27:56,100
+565
+00:27:54,907 --> 00:27:56,108
 This is Angela.
 
-689
-00:27:56,140 --> 00:27:58,070
+566
+00:27:56,142 --> 00:27:58,077
 - Blankenship.
 - Mentor.
 
-690
-00:27:58,110 --> 00:28:00,170
-- Walk toward the elevator
+567
+00:27:58,110 --> 00:28:00,179
+Walk toward the elevator
 bank on your floor.
 
-691
-00:28:00,210 --> 00:28:02,380
+568
+00:28:00,212 --> 00:28:02,390
 There's a package waiting
 for you at the reception desk.
 
-692
-00:28:02,410 --> 00:28:04,210
+569
+00:28:02,414 --> 00:28:04,216
 Has your name it.
 
-693
-00:28:04,250 --> 00:28:05,950
+570
+00:28:04,250 --> 00:28:05,952
 There's something going on.
 
-694
-00:28:05,980 --> 00:28:07,920
+571
+00:28:05,985 --> 00:28:07,920
 I don't think
 I can leave my office.
 
-695
-00:28:07,950 --> 00:28:09,450
+572
+00:28:07,954 --> 00:28:09,455
 That's our distraction.
 
-696
-00:28:09,480 --> 00:28:11,020
-- What do you mean
+573
+00:28:09,488 --> 00:28:11,023
+What do you mean
 your distraction?
 
-697
-00:28:11,050 --> 00:28:12,820
+574
+00:28:11,057 --> 00:28:12,825
 Get moving.
 
-698
-00:28:12,850 --> 00:28:15,360
+575
+00:28:12,859 --> 00:28:15,361
 We don't have a lot of time.
-<font color="#ff00ff">[equipment slams]</font>
 
-699
-00:28:15,390 --> 00:28:17,160
-<font color="#ff00ff">[door clicks open]</font>
-- This is an emergency.
+576
+00:28:15,394 --> 00:28:17,163
+This is an emergency.
 
-700
-00:28:17,190 --> 00:28:19,260
+577
+00:28:17,196 --> 00:28:19,265
 Please stay on your floor.
 
-701
-00:28:19,290 --> 00:28:22,230
+578
+00:28:19,298 --> 00:28:22,234
 - What's going on?
 - Ran into a bit of a snag.
 
-702
-00:28:22,260 --> 00:28:23,970
+579
+00:28:22,268 --> 00:28:23,970
 We're gonna need you
 to go ahead and have
 
-703
-00:28:24,000 --> 00:28:25,400
+580
+00:28:24,003 --> 00:28:25,413
 Elliot implement
 our contingency plan.
 
-704
-00:28:25,430 --> 00:28:27,130
+581
+00:28:25,437 --> 00:28:27,139
 Elliot?
 
-705
-00:28:27,170 --> 00:28:29,140
+582
+00:28:27,173 --> 00:28:29,141
 What contingency plan?
 
-706
-00:28:29,170 --> 00:28:33,270
-- He needs to get to
-a computer called a, uh, HSM,
+583
+00:28:29,175 --> 00:28:33,279
+He needs to get to
+a computer called a, HSM,
 
-707
-00:28:33,310 --> 00:28:35,080
+584
+00:28:33,312 --> 00:28:35,081
 make a backup of it.
 
-708
-00:28:35,110 --> 00:28:38,780
+585
+00:28:35,114 --> 00:28:38,785
 Once we get that,
 we'll be good to go.
 
-709
-00:28:38,810 --> 00:28:40,110
+586
+00:28:38,818 --> 00:28:40,119
 Come on, let's go, let's go!
 
-710
-00:28:40,150 --> 00:28:41,820
+587
+00:28:40,152 --> 00:28:41,821
 I got the package.
 
-711
-00:28:41,850 --> 00:28:43,450
-- Good.
+588
+00:28:41,854 --> 00:28:43,455
+Good.
 Take the package to Elliot.
 
-712
-00:28:43,480 --> 00:28:45,420
+589
+00:28:43,489 --> 00:28:45,424
 It contains
 all the hardware he'll need.
 
-713
-00:28:45,450 --> 00:28:47,760
+590
+00:28:45,457 --> 00:28:47,760
 He'll pose as a member of
 the internal audit team
 
-714
-00:28:47,790 --> 00:28:49,890
+591
+00:28:47,794 --> 00:28:49,896
 based out of Detroit.
 
-715
-00:28:49,920 --> 00:28:52,460
+592
+00:28:49,929 --> 00:28:52,464
 Everything he needs to know
 is on a sheet of paper inside.
 
-716
-00:28:52,490 --> 00:28:55,460
-<font color="#ff00ff">[alarm chirring]</font>
-
-717
-00:28:55,500 --> 00:28:57,100
-<font color="#ff00ff">[distorted synth music]</font>
-
-718
-00:28:57,130 --> 00:28:58,870
+593
+00:28:57,136 --> 00:28:58,871
 He'll get it done.
 
-719
-00:28:58,900 --> 00:29:00,800
+594
+00:28:58,905 --> 00:29:00,807
 Call me when it's finished.
 
-720
-00:29:00,840 --> 00:29:02,340
-♪
+595
+00:29:04,944 --> 00:29:07,413
+Attention, all E Corp employees,
 
-721
-00:29:02,370 --> 00:29:04,910
-<font color="#ff00ff">[pounding on door,
-people clamoring]</font>
-
-722
-00:29:04,940 --> 00:29:07,410
-- Attention,
-all E Corp employees,
-
-723
-00:29:07,440 --> 00:29:09,540
+596
+00:29:07,446 --> 00:29:09,548
 this is an emergency.
 
-724
-00:29:09,580 --> 00:29:12,050
+597
+00:29:09,581 --> 00:29:12,051
 Please stay on your floor.
-- <font color="#ff00ff">[shouting]</font>
 
-725
-00:29:12,080 --> 00:29:15,380
-- Lock all doors, and find
+598
+00:29:12,084 --> 00:29:15,387
+Lock all doors, and find
 your nearest safe zone.
 
-726
-00:29:15,420 --> 00:29:17,480
+599
+00:29:15,421 --> 00:29:17,489
 Stay away from
 elevators and stairwells...
 
-727
-00:29:17,520 --> 00:29:20,920
-<font color="#ff00ff">[elevator dings, door clicking]</font>
+600
+00:29:53,492 --> 00:29:55,194
+Ma'am, what are you doing here?
 
-728
-00:29:20,960 --> 00:29:26,890
-♪
-
-729
-00:29:26,930 --> 00:29:28,500
-<font color="#ff00ff">[beeping]</font>
-
-730
-00:29:28,530 --> 00:29:31,500
-<font color="#ff00ff">[door closes]</font>
-
-731
-00:29:31,530 --> 00:29:37,170
-♪
-
-732
-00:29:37,200 --> 00:29:40,170
-<font color="#ff00ff">[phone buzzing]</font>
-
-733
-00:29:40,210 --> 00:29:47,250
-♪
-
-734
-00:29:50,050 --> 00:29:51,350
-<font color="#ff00ff">[elevator dings]</font>
-
-735
-00:29:51,390 --> 00:29:53,450
-♪
-
-736
-00:29:53,490 --> 00:29:55,190
-- Ma'am,
-what are you doing here?
-
-737
-00:29:55,220 --> 00:29:57,020
+601
+00:29:55,227 --> 00:29:57,029
 It's not safe for you
 to be on elevators.
 
-738
-00:29:57,060 --> 00:29:58,560
+602
+00:29:57,063 --> 00:29:58,564
 I was, um...
 
-739
-00:29:58,590 --> 00:30:00,930
+603
+00:29:58,597 --> 00:30:00,933
 I'm trying to get
 to my office on 23.
 
-740
-00:30:00,960 --> 00:30:03,230
-- There's a secure room
+604
+00:30:00,967 --> 00:30:03,235
+There's a secure room
 and a safe zone on 23
 
-741
-00:30:03,260 --> 00:30:05,430
+605
+00:30:03,269 --> 00:30:05,437
 with no windows.
 I'll take you there.
 
-742
-00:30:07,300 --> 00:30:09,600
-<font color="#ff00ff">[man speaking on TV]</font>
+606
+00:30:09,641 --> 00:30:13,012
+Okay. Thank you.
 
-743
-00:30:09,640 --> 00:30:13,010
-- Okay.
-Thank you.
-
-744
-00:30:13,040 --> 00:30:15,910
-- As no permanent members of
+607
+00:30:13,045 --> 00:30:15,915
+As no permanent members of
 the council voted against it.
 
-745
-00:30:15,940 --> 00:30:17,480
+608
+00:30:15,948 --> 00:30:17,483
 The draft resolution contained
 
-746
-00:30:17,510 --> 00:30:20,150
+609
+00:30:17,516 --> 00:30:20,152
 in document S/2015/511
 hereby passes,
 
-747
-00:30:20,180 --> 00:30:23,020
+610
+00:30:20,186 --> 00:30:23,022
 allowing annexation
 of the Congo by China.
 
-748
-00:30:23,050 --> 00:30:25,550
+611
+00:30:23,055 --> 00:30:25,557
 I will now open the floor to
 members that wish to extend...
 
-749
-00:30:25,590 --> 00:30:29,860
-<font color="#ff00ff">[elevator rattles,
-electricity drones]</font>
-
-750
-00:30:29,890 --> 00:30:31,530
-- This is Murphy.
+612
+00:30:29,896 --> 00:30:31,530
+This is Murphy.
 I'm on elevator 4.
 
-751
-00:30:31,560 --> 00:30:33,030
+613
+00:30:31,563 --> 00:30:33,032
 We just lost power.
 
-752
-00:30:33,060 --> 00:30:35,630
+614
+00:30:33,065 --> 00:30:35,634
 I'm stuck between
 floors 26 and 25.
 
-753
-00:30:35,660 --> 00:30:37,560
-<font color="#ff00ff">[people screaming]</font>
-
-754
-00:30:37,600 --> 00:30:40,130
-<font color="#ff00ff">[ominous music]</font>
-
-755
-00:30:40,170 --> 00:30:41,570
+615
+00:30:40,172 --> 00:30:41,573
 Don't worry,
 they'll sort it out.
 
-756
-00:30:41,600 --> 00:30:44,570
+616
+00:30:41,607 --> 00:30:44,576
 We'll be fine.
 What's in the package?
 
-757
-00:30:44,610 --> 00:30:46,310
-<font color="#ff00ff">[chuckles]</font> Hopefully
+617
+00:30:44,610 --> 00:30:46,312
+Hopefully
 it's something we can eat.
 
-758
-00:30:46,340 --> 00:30:49,080
+618
+00:30:46,345 --> 00:30:49,081
 We may be here a while.
 
-759
-00:30:49,110 --> 00:30:51,410
+619
+00:30:49,115 --> 00:30:51,417
 Hard drives.
 
-760
-00:30:51,450 --> 00:30:54,480
+620
+00:30:51,450 --> 00:30:54,486
 Probably not
 the healthiest choice.
 
-761
-00:30:54,520 --> 00:30:57,280
-<font color="#ff00ff">[elevator buzzes, rumbles]</font>
+621
+00:30:57,323 --> 00:30:58,466
+Here, let me help you with that.
 
-762
-00:30:57,320 --> 00:30:58,450
-- Here, let me
-help you with that.
+622
+00:30:58,490 --> 00:31:00,893
+No, it's okay.
 
-763
-00:30:58,490 --> 00:31:00,890
-Oh, no, it's okay.
+623
+00:31:00,927 --> 00:31:03,495
+What the heck is this?
 
-764
-00:31:00,920 --> 00:31:03,490
-<font color="#ff00ff">[gasps]</font>
-- What the heck is this?
+624
+00:31:03,529 --> 00:31:05,297
+It belongs to my direct report.
 
-765
-00:31:03,520 --> 00:31:05,290
-- It belongs to
-my direct report.
+625
+00:31:05,331 --> 00:31:07,166
+He... he ran out of a meeting
 
-766
-00:31:05,330 --> 00:31:07,160
-He, uh... he ran
-out of a meeting
-
-767
-00:31:07,190 --> 00:31:09,100
+626
+00:31:07,199 --> 00:31:09,101
 and left his badge
 in a conference room.
 
-768
-00:31:09,130 --> 00:31:10,630
+627
+00:31:09,135 --> 00:31:10,636
 I'm bringing it back to him.
 
-769
-00:31:10,660 --> 00:31:12,170
-- Interesting that
+628
+00:31:10,669 --> 00:31:12,171
+Interesting that
 your direct report
 
-770
-00:31:12,200 --> 00:31:14,200
+629
+00:31:12,204 --> 00:31:14,206
 has special access
 and you don't.
 
-771
-00:31:14,240 --> 00:31:15,570
-<font color="#ff00ff">[elevator dings]</font>
-
-772
-00:31:15,600 --> 00:31:18,440
-<font color="#ff00ff">[elevator door opens]</font>
-
-773
-00:31:18,470 --> 00:31:20,640
-<font color="#ff00ff">[woman wailing]</font>
-<font color="#ff00ff">[glass shattering]</font>
-
-774
-00:31:20,670 --> 00:31:22,940
+630
+00:31:20,679 --> 00:31:22,949
 You're gonna have to
 come with me.
 
-775
-00:31:22,980 --> 00:31:25,950
-<font color="#ff00ff">[tense music]</font>
+631
+00:31:30,256 --> 00:31:32,992
+Attention, all E Corp employees,
 
-776
-00:31:25,980 --> 00:31:30,220
-♪
-
-777
-00:31:30,250 --> 00:31:32,990
-- Attention,
-all E Corp employees,
-
-778
-00:31:33,020 --> 00:31:35,090
+632
+00:31:33,025 --> 00:31:35,094
 this is an emergency.
 
-779
-00:31:35,120 --> 00:31:37,420
+633
+00:31:35,127 --> 00:31:37,429
 Please stay on your floor.
 
-780
-00:31:37,460 --> 00:31:40,660
+634
+00:31:37,463 --> 00:31:40,666
 Lock all doors, and find
 your nearest safe zone.
 
-781
-00:31:40,690 --> 00:31:43,000
+635
+00:31:40,699 --> 00:31:43,002
 Stay away from
 elevators and stairwells
 
-782
-00:31:43,030 --> 00:31:46,170
+636
+00:31:43,035 --> 00:31:46,172
 until further notice.
 
-783
-00:31:46,200 --> 00:31:49,000
-- I really should, uh,
+637
+00:31:46,205 --> 00:31:49,008
+I really should,
 head back to my office.
 
-784
-00:31:49,040 --> 00:31:50,600
+638
+00:31:49,041 --> 00:31:50,609
 It's actually just
 right back there.
 
-785
-00:31:50,640 --> 00:31:52,210
-- No, no, no, no, no, we're
+639
+00:31:50,642 --> 00:31:52,220
+No, no, no, no, no, we're
 gonna straighten this out.
 
-786
-00:31:52,240 --> 00:31:53,710
+640
+00:31:52,244 --> 00:31:53,712
 Hey! Over here!
 
-787
-00:31:53,740 --> 00:31:56,310
-<font color="#ff00ff">[gasps]</font>
-- <font color="#ff00ff">[grunts]</font> Douchebag!
+641
+00:31:53,745 --> 00:31:56,315
+Douchebag!
 
-788
-00:31:56,340 --> 00:31:58,980
-<font color="#ff00ff">[skull cracking]</font>
-
-789
-00:31:59,010 --> 00:32:06,050
-♪
-
-790
-00:32:09,090 --> 00:32:10,690
+642
+00:32:09,095 --> 00:32:10,696
 - Hey, over here!
 - Go, go, go!
 
-791
-00:32:10,720 --> 00:32:12,130
-<font color="#ff00ff">[grunts]</font>
+643
+00:32:21,073 --> 00:32:23,242
+Attention, all E Corp employees.
 
-792
-00:32:12,160 --> 00:32:14,360
-<font color="#ff00ff">[beeping]</font>
-
-793
-00:32:14,400 --> 00:32:16,030
-<font color="#ff00ff">[grunts]</font>
-
-794
-00:32:16,060 --> 00:32:19,030
-<font color="#ff00ff">[pounding on door]</font>
-
-795
-00:32:19,070 --> 00:32:21,040
-♪
-
-796
-00:32:21,070 --> 00:32:23,240
-- Attention, all E Corp
-employees.
-
-797
-00:32:23,270 --> 00:32:25,610
+644
+00:32:23,275 --> 00:32:25,611
 This is an emergency.
 
-798
-00:32:25,640 --> 00:32:28,310
+645
+00:32:25,644 --> 00:32:28,314
 Please stay on your floor.
 
-799
-00:32:28,340 --> 00:32:29,710
-<font color="#ff00ff">[beeping]</font>
+646
+00:32:28,347 --> 00:32:29,715
 Lock all doors,
 
-800
-00:32:29,740 --> 00:32:31,510
-and find
-the nearest safe zone.
+647
+00:32:29,748 --> 00:32:31,517
+and find the nearest safe zone.
 
-801
-00:32:31,550 --> 00:32:33,510
+648
+00:32:31,550 --> 00:32:33,519
 Stay away from
 elevators and stairwells
 
-802
-00:32:33,550 --> 00:32:35,280
+649
+00:32:33,552 --> 00:32:35,287
 until further notice.
 
-803
-00:32:35,320 --> 00:32:37,750
-<font color="#ff00ff">[sirens blaring]</font>
-
-804
-00:32:37,780 --> 00:32:39,450
+650
+00:32:37,789 --> 00:32:39,458
 This is the police!
 
-805
-00:32:39,490 --> 00:32:42,060
+651
+00:32:39,491 --> 00:32:42,061
 Do not attempt
 to cross the line.
 
-806
-00:32:42,090 --> 00:32:43,560
-<font color="#ff00ff">[distorted synth music]</font>
-
-807
-00:32:43,590 --> 00:32:45,560
+652
+00:32:43,595 --> 00:32:45,564
 This is the police.
 
-808
-00:32:45,590 --> 00:32:48,600
+653
+00:32:45,597 --> 00:32:48,600
 Do not attempt
 to cross the line.
 
-809
-00:32:48,630 --> 00:32:55,670
-♪
-
-810
-00:32:58,140 --> 00:33:00,470
-<font color="#ff00ff">[cabinet clicking]</font>
-
-811
-00:33:00,510 --> 00:33:07,550
-♪
-
-812
-00:33:10,180 --> 00:33:12,620
-<font color="#ff00ff">[cabinet squeaks]</font>
-
-813
-00:33:12,650 --> 00:33:18,060
-♪
-
-814
-00:33:18,090 --> 00:33:19,630
-<font color="#ff00ff">[mutters]</font>
-
-815
-00:33:19,660 --> 00:33:26,700
-♪
-
-816
-00:33:35,480 --> 00:33:38,210
-<font color="#ff00ff">[rumbling]</font>
-
-817
-00:33:38,250 --> 00:33:40,080
-<font color="#ff00ff">[glass shatters]</font>
-
-818
-00:33:40,110 --> 00:33:41,620
-♪
-
-819
-00:33:41,650 --> 00:33:44,620
-<font color="#ff00ff">[slow string music]</font>
-
-820
-00:33:44,650 --> 00:33:48,090
-♪
-
-821
-00:33:48,120 --> 00:33:50,420
+654
+00:33:48,127 --> 00:33:50,429
 Where's the USB key?
 
-822
-00:33:50,460 --> 00:33:53,430
-<font color="#ff00ff">[percussion music builds]</font>
-
-823
-00:33:53,460 --> 00:34:00,500
-♪
-
-824
-00:34:01,640 --> 00:34:04,610
-<font color="#ff00ff">[door clicking]</font>
-
-825
-00:34:04,640 --> 00:34:06,710
-<font color="#ff00ff">[door creaking]</font>
-
-826
-00:34:06,740 --> 00:34:09,580
-<font color="#ff00ff">[alarm chirring]</font>
-
-827
-00:34:13,650 --> 00:34:15,420
-- Attention,
+655
+00:34:13,652 --> 00:34:15,421
+Attention,
 all E Corp employees...
 
-828
-00:34:15,450 --> 00:34:18,420
-<font color="#ff00ff">[tense music]</font>
+656
+00:34:31,137 --> 00:34:32,771
+Fuck... Come on, come on,
 
-829
-00:34:18,450 --> 00:34:25,490
-♪
-
-830
-00:34:31,130 --> 00:34:32,770
-- Oh, fuck...
-Come on, come on,
-
-831
-00:34:32,800 --> 00:34:34,540
+657
+00:34:32,804 --> 00:34:34,540
 there's gotta be one
 around here somewhere.
 
-832
-00:34:34,570 --> 00:34:36,200
-<font color="#ff00ff">[inhales sharply]</font>
-
-833
-00:34:36,240 --> 00:34:43,280
-♪
-
-834
-00:35:07,230 --> 00:35:09,640
-<font color="#ff00ff">[beeping, door opens]</font>
-
-835
-00:35:12,340 --> 00:35:14,140
+658
+00:35:12,344 --> 00:35:14,146
 Hey.
-- <font color="#ff00ff">[gasps]</font>
 
-836
-00:35:14,180 --> 00:35:16,780
+659
+00:35:14,180 --> 00:35:16,782
 Fuck, you scared
 the shit out of me.
 
-837
-00:35:16,810 --> 00:35:18,850
+660
+00:35:16,815 --> 00:35:18,850
 Sorry.
 
-838
-00:35:18,880 --> 00:35:20,550
-- Have you seen
+661
+00:35:18,884 --> 00:35:20,562
+Have you seen
 what they're doing out there?
 
-839
-00:35:20,580 --> 00:35:22,820
-It's insane.
+662
+00:35:20,586 --> 00:35:22,821
+- It's insane.
 - Yeah, I know.
 
-840
-00:35:22,850 --> 00:35:24,550
-♪
-
-841
-00:35:24,590 --> 00:35:26,390
+663
+00:35:24,590 --> 00:35:26,392
 You okay?
 
-842
-00:35:26,420 --> 00:35:28,420
+664
+00:35:26,425 --> 00:35:28,427
 Yeah, I am now.
 
-843
-00:35:28,460 --> 00:35:30,660
-♪
-
-844
-00:35:30,690 --> 00:35:32,190
+665
+00:35:30,696 --> 00:35:32,198
 Wait...
 
-845
-00:35:32,230 --> 00:35:34,630
-♪
-
-846
-00:35:34,660 --> 00:35:36,560
+666
+00:35:34,666 --> 00:35:36,568
 How did you get in here?
 
-847
-00:35:36,600 --> 00:35:39,800
-♪
-
-848
-00:35:39,830 --> 00:35:43,170
-- I'm a part of
+667
+00:35:39,838 --> 00:35:43,175
+I'm a part of
 the internal audit team,
 
-849
-00:35:43,200 --> 00:35:45,310
+668
+00:35:43,209 --> 00:35:45,311
 out of Detroit.
 
-850
-00:35:45,340 --> 00:35:46,910
+669
+00:35:45,344 --> 00:35:46,912
 Was in the middle of
 an unannounced
 
-851
-00:35:46,940 --> 00:35:48,540
+670
+00:35:46,945 --> 00:35:48,547
 physical security audit
 
-852
-00:35:48,580 --> 00:35:51,410
+671
+00:35:48,580 --> 00:35:51,417
 of the code signing operation.
 
-853
-00:35:51,450 --> 00:35:53,850
-<font color="#ff00ff">[glass shatters]</font>
-- <font color="#ff00ff">[screams]</font> Oh...
+672
+00:35:57,389 --> 00:35:59,591
+You fucking bitch!
 
-854
-00:35:53,880 --> 00:35:55,820
-<font color="#ff00ff">[screaming]</font>
-- <font color="#ff00ff">[grunting]</font>
+673
+00:36:54,012 --> 00:36:55,914
+Thank God.
 
-855
-00:35:55,850 --> 00:35:57,350
-<font color="#ff00ff">[pepper spray can hisses]</font>
-
-856
-00:35:57,380 --> 00:35:59,590
-Ah, you fucking bitch!
-<font color="#ff00ff">[grunts]</font>
-
-857
-00:35:59,620 --> 00:36:02,620
-- <font color="#ff00ff">[panting]</font>
-Oh...
-
-858
-00:36:02,660 --> 00:36:04,560
-<font color="#ff00ff">[groaning]</font>
-
-859
-00:36:04,590 --> 00:36:07,560
-<font color="#ff00ff">[coughing]</font>
-
-860
-00:36:07,590 --> 00:36:13,270
-♪
-
-861
-00:36:13,300 --> 00:36:15,270
-Ah... <font color="#ff00ff">[gasps]</font>
-
-862
-00:36:15,300 --> 00:36:20,340
-♪
-
-863
-00:36:20,370 --> 00:36:21,940
-<font color="#ff00ff">[beeping]</font>
-
-864
-00:36:21,980 --> 00:36:24,310
-♪
-
-865
-00:36:24,350 --> 00:36:27,310
-<font color="#ff00ff">[gasping, sniffling]</font>
-
-866
-00:36:27,350 --> 00:36:34,390
-♪
-
-867
-00:36:40,790 --> 00:36:43,760
-<font color="#ff00ff">[keyboard clacking]</font>
-
-868
-00:36:43,800 --> 00:36:49,670
-♪
-
-869
-00:36:49,700 --> 00:36:51,910
-<font color="#ff00ff">[distorted droning]</font>
-
-870
-00:36:51,940 --> 00:36:53,970
-♪
-
-871
-00:36:54,010 --> 00:36:55,910
-Oh, thank God.
-
-872
-00:36:55,940 --> 00:36:58,550
-♪
-
-873
-00:36:58,580 --> 00:36:59,980
-<font color="#ff00ff">[groans]</font>
-
-874
-00:37:00,010 --> 00:37:03,950
-♪
-
-875
-00:37:03,980 --> 00:37:05,990
+674
+00:37:03,989 --> 00:37:05,991
 Yeah...
 
-876
-00:37:06,020 --> 00:37:13,260
-♪
+675
+00:38:24,636 --> 00:38:27,339
+Attention, all E Corp employees,
 
-877
-00:37:31,580 --> 00:37:33,410
-<font color="#ff00ff">[exhales, sniffles]</font>
-
-878
-00:37:33,450 --> 00:37:40,490
-♪
-
-879
-00:37:47,030 --> 00:37:49,960
-<font color="#ff00ff">[breathing heavily]</font>
-
-880
-00:37:50,000 --> 00:37:52,000
-♪
-
-881
-00:37:52,030 --> 00:37:54,070
-<font color="#ff00ff">[electricity
-squeaking, popping]</font>
-
-882
-00:37:54,100 --> 00:38:01,340
-♪
-
-883
-00:38:03,910 --> 00:38:06,880
-<font color="#ff00ff">[alarm chirring]</font>
-
-884
-00:38:06,910 --> 00:38:09,620
-♪
-
-885
-00:38:09,650 --> 00:38:12,620
-<font color="#ff00ff">[door rattling]</font>
-
-886
-00:38:12,650 --> 00:38:16,560
-♪
-
-887
-00:38:16,590 --> 00:38:18,430
-<font color="#ff00ff">[glass shatters]</font>
-
-888
-00:38:18,460 --> 00:38:19,460
-<font color="#ff00ff">[yelps]</font>
-
-889
-00:38:19,490 --> 00:38:22,460
-<font color="#ff00ff">[equipment smashing]</font>
-
-890
-00:38:22,500 --> 00:38:24,600
-♪
-
-891
-00:38:24,630 --> 00:38:27,330
-- Attention,
-all E Corp employees,
-
-892
-00:38:27,370 --> 00:38:29,340
+676
+00:38:27,373 --> 00:38:29,341
 this is an emergency.
 
-893
-00:38:29,370 --> 00:38:32,340
-<font color="#ff00ff">[equipment rattling, jangling]</font>
+677
+00:39:16,955 --> 00:39:19,791
+Attention, all E Corp employees,
 
-894
-00:38:32,370 --> 00:38:38,710
-♪
-
-895
-00:38:38,750 --> 00:38:40,710
-<font color="#ff00ff">[groans]</font>
-
-896
-00:38:40,750 --> 00:38:47,790
-♪
-
-897
-00:38:54,800 --> 00:38:57,800
-<font color="#ff00ff">[pounds, glass shatters]</font>
-
-898
-00:38:57,830 --> 00:39:00,370
-<font color="#ff00ff">[coughing]</font>
-
-899
-00:39:00,400 --> 00:39:04,710
-♪
-
-900
-00:39:04,740 --> 00:39:06,770
-<font color="#ff00ff">[groans]</font>
-
-901
-00:39:06,810 --> 00:39:09,510
-<font color="#ff00ff">[equipment shuffling, rattling]</font>
-
-902
-00:39:09,540 --> 00:39:11,980
-♪
-
-903
-00:39:12,010 --> 00:39:14,980
-<font color="#ff00ff">[fluttering synth music]</font>
-
-904
-00:39:15,020 --> 00:39:16,920
-♪
-
-905
-00:39:16,950 --> 00:39:19,790
-- Attention,
-all E Corp employees,
-
-906
-00:39:19,820 --> 00:39:21,790
+678
+00:39:19,825 --> 00:39:21,793
 this is an emergency.
 
-907
-00:39:21,820 --> 00:39:24,090
+679
+00:39:21,827 --> 00:39:24,095
 Please stay on your floor.
 
-908
-00:39:24,120 --> 00:39:27,490
+680
+00:39:24,129 --> 00:39:27,499
 Lock all doors, and find
 your nearest safe zone.
 
-909
-00:39:27,530 --> 00:39:29,660
+681
+00:39:27,533 --> 00:39:29,668
 Stay away from
 elevators and stairwells
 
-910
-00:39:29,700 --> 00:39:32,030
+682
+00:39:29,701 --> 00:39:32,037
 until further notice.
-<font color="#ff00ff">[equipment rips]</font>
 
-911
-00:39:32,070 --> 00:39:34,570
+683
+00:39:32,070 --> 00:39:34,573
 Yeah!
 
-912
-00:39:34,600 --> 00:39:36,840
-<font color="#ff00ff">[mumbling]</font>
-
-913
-00:39:36,870 --> 00:39:42,180
-♪
-
-914
-00:39:42,210 --> 00:39:45,180
-<font color="#ff00ff">[equipment scraping, rattling]</font>
-
-915
-00:39:45,210 --> 00:39:48,010
-♪
-
-916
-00:39:48,050 --> 00:39:50,020
-- <font color="#ff00ff">[grunts]</font>
-<font color="#ff00ff">[equipment thudding]</font>
-
-917
-00:39:50,050 --> 00:39:54,760
-♪
-
-918
-00:39:54,790 --> 00:39:56,120
-<font color="#ff00ff">[elevator dings]</font>
-
-919
-00:39:56,160 --> 00:39:59,460
-♪
-
-920
-00:39:59,490 --> 00:40:02,530
-<font color="#ff00ff">[man speaking on TV]</font>
-
-921
-00:40:05,970 --> 00:40:08,700
-<font color="#ff00ff">[coughing, wheezes]</font>
-
-922
-00:40:08,740 --> 00:40:11,710
-<font color="#ff00ff">[breathing heavily]</font>
-
-923
-00:40:11,740 --> 00:40:14,580
-<font color="#ff00ff">[solemn music]</font>
-
-924
-00:40:14,610 --> 00:40:16,610
-- This great country didn't
+684
+00:40:14,613 --> 00:40:16,624
+This great country didn't
 start out with 50 states,
 
-925
-00:40:16,640 --> 00:40:18,480
+685
+00:40:16,648 --> 00:40:18,484
 so why stop at 50 states?
 
-926
-00:40:18,510 --> 00:40:20,850
+686
+00:40:18,517 --> 00:40:20,852
 And, let me add,
 that this is why we need a man
 
-927
-00:40:20,880 --> 00:40:23,580
+687
+00:40:20,886 --> 00:40:23,589
 with a business acumen like
 Donald Trump as President.
 
-928
-00:40:23,620 --> 00:40:25,750
+688
+00:40:23,622 --> 00:40:25,757
 If China makes another move
 like they did today,
 
-929
-00:40:25,790 --> 00:40:28,220
+689
+00:40:25,791 --> 00:40:28,226
 our standing
 as a world superpower
 
-930
-00:40:28,250 --> 00:40:30,160
+690
+00:40:28,259 --> 00:40:30,161
 will be put into question.
 
-931
-00:40:30,190 --> 00:40:32,160
+691
+00:40:30,195 --> 00:40:32,173
 Mr. Trump has the drive,
 the ambition to help us...
 
-932
-00:40:32,190 --> 00:40:34,700
+692
+00:40:32,197 --> 00:40:34,700
 - Marlinspike.
 - Moxie.
 
-933
-00:40:34,730 --> 00:40:36,900
-It's done,
-but we got a problem.
+693
+00:40:34,733 --> 00:40:36,902
+It's done, but we got a problem.
 
-934
-00:40:36,930 --> 00:40:38,230
+694
+00:40:36,935 --> 00:40:38,236
 I was made.
 
-935
-00:40:38,260 --> 00:40:39,800
+695
+00:40:38,269 --> 00:40:39,805
 There was a woman
 in the CSAT room.
 
-936
-00:40:39,830 --> 00:40:41,800
+696
+00:40:39,838 --> 00:40:41,807
 She saw me.
 
-937
-00:40:41,840 --> 00:40:43,670
-- Wait, why were you in
+697
+00:40:41,840 --> 00:40:43,685
+Wait, why were you in
 that room instead of Elliot?
 
-938
-00:40:43,700 --> 00:40:45,210
+698
+00:40:43,709 --> 00:40:45,210
 I couldn't find him.
 
-939
-00:40:45,240 --> 00:40:46,910
-- What the hell
+699
+00:40:45,243 --> 00:40:46,912
+What the hell
 are you talking about?
 
-940
-00:40:46,940 --> 00:40:49,010
-- Your distraction
+700
+00:40:46,945 --> 00:40:49,014
+Your distraction
 is fucking overkill.
 
-941
-00:40:49,040 --> 00:40:52,550
+701
+00:40:49,047 --> 00:40:52,551
 I couldn't find him in
 the middle of a goddamn riot.
 
-942
-00:40:52,580 --> 00:40:55,780
+702
+00:40:52,584 --> 00:40:55,787
 Your men came after me.
-- Well, they're not all ours.
+Well, they're not all ours.
 
-943
-00:40:55,820 --> 00:40:57,580
+703
+00:40:55,821 --> 00:40:57,589
 Just 'cause we lit the fuse
 
-944
-00:40:57,620 --> 00:40:59,550
+704
+00:40:57,623 --> 00:40:59,558
 doesn't mean
 we control the explosion.
 
-945
-00:40:59,590 --> 00:41:01,590
+705
+00:40:59,591 --> 00:41:01,593
 You weren't supposed to be
 on that floor anyway.
 
-946
-00:41:01,620 --> 00:41:05,160
-- You said you wanted it done
+706
+00:41:01,627 --> 00:41:05,163
+You said you wanted it done
 immediately, so I got it done.
 
-947
-00:41:05,190 --> 00:41:08,600
-Uh-huh.
-
-948
-00:41:08,630 --> 00:41:10,800
+707
+00:41:08,634 --> 00:41:10,802
 This woman who saw you,
 
-949
-00:41:10,830 --> 00:41:13,970
+708
+00:41:10,836 --> 00:41:13,972
 did you get her name?
 
-950
-00:41:14,000 --> 00:41:15,800
+709
+00:41:14,005 --> 00:41:15,807
 Lydia Riley.
 
-951
-00:41:15,840 --> 00:41:18,870
-♪
-
-952
-00:41:18,910 --> 00:41:20,970
+710
+00:41:18,910 --> 00:41:20,979
 We'll take care of it.
 
-953
-00:41:21,010 --> 00:41:23,210
+711
+00:41:21,012 --> 00:41:23,214
 So, you were able
 to follow everything
 
-954
-00:41:23,240 --> 00:41:25,280
-on that sheet of paper, huh?
+712
+00:41:23,248 --> 00:41:25,283
+on that sheet of paper?
 
-955
-00:41:25,310 --> 00:41:27,210
-<font color="#ff00ff">[eerie music]</font>
-
-956
-00:41:27,250 --> 00:41:29,280
+713
+00:41:27,252 --> 00:41:29,287
 Angela, if you didn't do
 everything on that list...
 
-957
-00:41:29,320 --> 00:41:31,250
+714
+00:41:29,320 --> 00:41:31,256
 Yes, yeah, I got it done.
 
-958
-00:41:31,280 --> 00:41:33,020
-Oh, good.
+715
+00:41:31,289 --> 00:41:33,024
+Good.
 
-959
-00:41:33,050 --> 00:41:34,660
+716
+00:41:33,058 --> 00:41:34,660
 There's a delivery man
 waiting for you
 
-960
-00:41:34,690 --> 00:41:36,520
+717
+00:41:34,693 --> 00:41:36,528
 at Reception on your floor.
 
-961
-00:41:36,560 --> 00:41:38,530
+718
+00:41:36,562 --> 00:41:38,530
 Give him the package
 with everything in it.
 
-962
-00:41:38,560 --> 00:41:40,860
+719
+00:41:38,564 --> 00:41:40,866
 Irving?
 
-963
-00:41:40,890 --> 00:41:43,230
+720
+00:41:40,899 --> 00:41:43,234
 Are you still gonna evacuate
 the Recovery Center?
 
-964
-00:41:43,260 --> 00:41:44,930
-♪
-
-965
-00:41:44,970 --> 00:41:47,030
+721
+00:41:44,970 --> 00:41:47,038
 That's been done already.
 
-966
-00:41:47,070 --> 00:41:50,840
+722
+00:41:47,072 --> 00:41:50,842
 - So this is really happening?
 - We need you to stay strong.
 
-967
-00:41:50,870 --> 00:41:52,540
+723
+00:41:50,876 --> 00:41:52,544
 It's like you said,
 
-968
-00:41:52,570 --> 00:41:54,880
-she can make
-all of this better.
+724
+00:41:52,578 --> 00:41:54,880
+she can make all of this better.
 
-969
-00:41:54,910 --> 00:41:57,310
+725
+00:41:54,913 --> 00:41:57,315
 This is a step toward that.
 
-970
-00:41:57,340 --> 00:41:59,110
+726
+00:41:57,348 --> 00:41:59,117
 Remember the cause.
 
-971
-00:41:59,150 --> 00:42:06,190
-♪
+727
+00:42:52,938 --> 00:42:55,707
+Attention, all E Corp employees,
 
-972
-00:42:12,160 --> 00:42:13,960
-<font color="#ff00ff">[beeping]</font>
-
-973
-00:42:13,990 --> 00:42:21,030
-♪
-
-974
-00:42:29,010 --> 00:42:30,910
-<font color="#ff00ff">[exhales slowly]</font>
-
-975
-00:42:30,940 --> 00:42:37,320
-♪
-
-976
-00:42:37,350 --> 00:42:40,020
-<font color="#ff00ff">[audio modulates]</font>
-
-977
-00:42:40,050 --> 00:42:41,690
-<font color="#ff00ff">[elevator dings]</font>
-
-978
-00:42:41,720 --> 00:42:44,160
-♪
-
-979
-00:42:44,190 --> 00:42:47,160
-<font color="#ff00ff">[alarm chirring]</font>
-
-980
-00:42:47,190 --> 00:42:52,900
-♪
-
-981
-00:42:52,930 --> 00:42:55,700
-- Attention,
-all E Corp employees,
-
-982
-00:42:55,740 --> 00:42:57,770
+728
+00:42:55,741 --> 00:42:57,776
 this is an emergency.
 
-983
-00:42:57,800 --> 00:43:00,140
+729
+00:42:57,809 --> 00:43:00,145
 Please stay on your floor.
 
-984
-00:43:00,170 --> 00:43:03,340
+730
+00:43:00,178 --> 00:43:03,348
 Lock all doors, and find
 your nearest safe zone.
 
-985
-00:43:03,380 --> 00:43:05,650
+731
+00:43:03,381 --> 00:43:05,651
 Stay away from
 elevators and stairwells
 
-986
-00:43:05,680 --> 00:43:07,780
+732
+00:43:05,684 --> 00:43:07,786
 until further notice.
 
-987
-00:43:07,810 --> 00:43:14,860
-♪
+733
+00:43:51,997 --> 00:43:54,766
+Attention, all E Corp employees,
 
-988
-00:43:16,220 --> 00:43:19,860
-<font color="#ff00ff">[woman singing fades in]</font>
-- ♪ Ah
-
-989
-00:43:19,890 --> 00:43:22,030
-♪ Ah
-
-990
-00:43:22,060 --> 00:43:29,100
-♪
-
-991
-00:43:44,790 --> 00:43:47,750
-<font color="#ff00ff">[breathes shakily]</font>
-
-992
-00:43:47,790 --> 00:43:51,960
-♪
-
-993
-00:43:51,990 --> 00:43:54,760
-- Attention,
-all E Corp employees,
-
-994
-00:43:54,800 --> 00:43:56,830
+734
+00:43:54,800 --> 00:43:56,835
 this is an emergency.
 
-995
-00:43:56,860 --> 00:43:58,770
+735
+00:43:56,868 --> 00:43:58,770
 Please stay on your floor.
 
-996
-00:43:58,800 --> 00:44:01,970
-<font color="#ff00ff">[distressed breathing]</font>
+736
+00:44:22,193 --> 00:44:24,329
+Angela...
 
-997
-00:44:02,000 --> 00:44:03,670
-<font color="#ff00ff">[sniffles]</font>
-
-998
-00:44:03,700 --> 00:44:10,740
-♪
-
-999
-00:44:12,810 --> 00:44:15,780
-<font color="#ff00ff">[shaky breathing]</font>
-
-1000
-00:44:15,820 --> 00:44:22,160
-♪
-
-1001
-00:44:22,190 --> 00:44:24,320
-- Angela...
-- <font color="#ff00ff">[gasps softly]</font>
-
-1002
-00:44:26,360 --> 00:44:28,430
-- Is there something
+737
+00:44:26,364 --> 00:44:28,433
+Is there something
 you wanna tell me?
 
-1003
-00:44:28,460 --> 00:44:31,260
-<font color="#ff00ff">[alarm continues chirring]</font>
+738
+00:44:31,302 --> 00:44:33,872
+Attention, all E Corp employees,
 
-1004
-00:44:31,300 --> 00:44:33,870
-- Attention,
-all E Corp employees,
-
-1005
-00:44:33,900 --> 00:44:36,000
+739
+00:44:33,905 --> 00:44:36,007
 this is an emergency.
 
-1006
-00:44:36,040 --> 00:44:38,340
+740
+00:44:36,041 --> 00:44:38,343
 Please stay on your floor.
 
-1007
-00:44:38,370 --> 00:44:41,810
+741
+00:44:38,376 --> 00:44:41,813
 Lock all doors, and find
 your nearest safe zone.
 
-1008
-00:44:41,840 --> 00:44:43,910
+742
+00:44:41,847 --> 00:44:43,915
 Stay away from
 elevators and stairwells
 
-1009
-00:44:43,940 --> 00:44:46,910
+743
+00:44:43,949 --> 00:44:46,918
 until further notice.
 
-1010
-00:44:46,950 --> 00:44:49,750
-Attention,
-all E Corp employees,
+744
+00:44:46,952 --> 00:44:49,755
+Attention, all E Corp employees,
 
-1011
-00:44:49,780 --> 00:44:52,290
+745
+00:44:49,788 --> 00:44:52,290
 this is an emergency.
 
-1012
-00:44:52,320 --> 00:44:53,350
+746
+00:44:52,323 --> 00:44:53,363
 Please stay on your floor.
+

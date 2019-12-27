@@ -654,10 +654,6 @@ quicker than you can finish a box of Swedish Fish.
 00:10:13,280 --> 00:10:14,370
 You should go.
 
-165
-00:11:05,240 --> 00:11:06,040
-<b><i><font color="#e20000">{\an3}Mr. Robot </font></i></b>
-
 166
 00:11:47,970 --> 00:11:49,950
 How long do I have to be here?
