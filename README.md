@@ -39,7 +39,7 @@ Part 4:
 - http://www.laurentluce.com/posts/twitter-sentiment-analysis-using-python-and-nltk/
 - https://www.twilio.com/blog/2017/12/sentiment-analysis-scikit-learn.html
 - https://towardsdatascience.com/sentiment-analysis-with-python-part-1-5ce197074184
-
+- https://stackabuse.com/python-for-nlp-movie-sentiment-analysis-using-deep-learning-in-keras/
 
 
 
